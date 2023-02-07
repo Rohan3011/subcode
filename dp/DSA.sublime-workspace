@@ -1,0 +1,2886 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"edn",
+				"endTime"
+			],
+			[
+				"t",
+				"travel"
+			],
+			[
+				"find",
+				"findSequence"
+			],
+			[
+				"IN",
+				"INT_MAX"
+			],
+			[
+				"max",
+				"max_occur"
+			],
+			[
+				"nw",
+				"newSum"
+			],
+			[
+				"pr",
+				"prefixSum"
+			],
+			[
+				"deb",
+				"debugging"
+			],
+			[
+				"pre",
+				"prefixSum"
+			],
+			[
+				"tr",
+				"traverseInorder"
+			],
+			[
+				"n",
+				"never"
+			],
+			[
+				"so",
+				"sort"
+			],
+			[
+				"upe",
+				"upper_bound"
+			],
+			[
+				"sh",
+				"shouldSwap"
+			],
+			[
+				"pb",
+				"push_back"
+			],
+			[
+				"be",
+				"begin"
+			],
+			[
+				"toa",
+				"total_sum"
+			],
+			[
+				"res",
+				"resize"
+			],
+			[
+				"log2",
+				"log2(x)"
+			],
+			[
+				"LONG",
+				"LONG_LONG_MAX"
+			],
+			[
+				"slice",
+				"slice"
+			],
+			[
+				"ra",
+				"range"
+			],
+			[
+				"begin",
+				"beginend"
+			],
+			[
+				"to",
+				"to_ullong"
+			],
+			[
+				"printf",
+				"printf"
+			],
+			[
+				"s",
+				"size"
+			],
+			[
+				"coun",
+				"countDigit"
+			],
+			[
+				"count",
+				"countDigit"
+			],
+			[
+				"targe",
+				"targetSum"
+			],
+			[
+				"targ",
+				"targetSum"
+			],
+			[
+				"tar",
+				"targetSum"
+			],
+			[
+				"a",
+				"arrBit"
+			],
+			[
+				"prin",
+				"printf"
+			],
+			[
+				"me",
+				"merge"
+			],
+			[
+				"d",
+				"do"
+			],
+			[
+				"vl",
+				"vl"
+			],
+			[
+				"de",
+				"debugging"
+			],
+			[
+				"Nod",
+				"Node"
+			],
+			[
+				"struc",
+				"struct"
+			],
+			[
+				"ios",
+				"iostream"
+			],
+			[
+				"pi",
+				"prime_factorization"
+			],
+			[
+				"str",
+				"struct"
+			],
+			[
+				"pri",
+				"printf"
+			],
+			[
+				"den",
+				"debugging"
+			],
+			[
+				"ord",
+				"ordered_multiset"
+			],
+			[
+				"pus",
+				"push_back"
+			],
+			[
+				"vi",
+				"vi"
+			],
+			[
+				"cstd",
+				"cstdio"
+			],
+			[
+				"md",
+				"med1"
+			],
+			[
+				"beg",
+				"beginend"
+			],
+			[
+				"re",
+				"req_sum"
+			],
+			[
+				"b",
+				"begin"
+			],
+			[
+				"siz",
+				"size"
+			],
+			[
+				"last",
+				"last_a"
+			],
+			[
+				"em",
+				"empty"
+			],
+			[
+				"fin",
+				"findEvenNumbers"
+			],
+			[
+				"I",
+				"IMX"
+			],
+			[
+				"con",
+				"continue"
+			],
+			[
+				"low",
+				"lower_bound"
+			],
+			[
+				"si",
+				"sieve"
+			],
+			[
+				"l",
+				"leftover"
+			],
+			[
+				"p",
+				"push_front"
+			],
+			[
+				"upp",
+				"upper_bound"
+			],
+			[
+				"is",
+				"isPalindrome"
+			],
+			[
+				"isP",
+				"isPalindrome"
+			],
+			[
+				"su",
+				"sum_ans"
+			],
+			[
+				"for",
+				"for_each"
+			],
+			[
+				"fo",
+				"fo"
+			],
+			[
+				"in",
+				"inc"
+			],
+			[
+				"cre",
+				"createDigitPrime"
+			],
+			[
+				"us",
+				"using"
+			],
+			[
+				"cou",
+				"cout"
+			],
+			[
+				"rb",
+				"rbegin"
+			],
+			[
+				"min",
+				"min_element"
+			],
+			[
+				"emp",
+				"empty"
+			],
+			[
+				"max_",
+				"max_element"
+			],
+			[
+				"o",
+				"ordered_multiset"
+			],
+			[
+				"ma",
+				"max"
+			],
+			[
+				"sort",
+				"sorted_multiset<int>"
+			],
+			[
+				"or",
+				"ordered_set"
+			],
+			[
+				"i",
+				"if"
+			],
+			[
+				"sca",
+				"scan"
+			],
+			[
+				"po",
+				"potion"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"vc",
+				"vc"
+			],
+			[
+				"le",
+				"left_top"
+			],
+			[
+				"v",
+				"vector"
+			],
+			[
+				"ne",
+				"next_permutation"
+			],
+			[
+				"cla",
+				"class"
+			],
+			[
+				"Cre",
+				"CreateSieve"
+			],
+			[
+				"set",
+				"setprecision"
+			],
+			[
+				"setp",
+				"setprecision"
+			],
+			[
+				"swa",
+				"swapBig"
+			],
+			[
+				"sw",
+				"swap"
+			],
+			[
+				"c",
+				"class"
+			],
+			[
+				"print",
+				"printf"
+			],
+			[
+				"pop",
+				"pop_back"
+			],
+			[
+				"fa",
+				"factorial"
+			],
+			[
+				"r",
+				"readyPC"
+			],
+			[
+				"pint",
+				"print"
+			],
+			[
+				"std",
+				"stdlib.h"
+			],
+			[
+				"cnt",
+				"cntMedian"
+			],
+			[
+				"m",
+				"median"
+			],
+			[
+				"co",
+				"col_sum"
+			],
+			[
+				"col",
+				"col_sum"
+			],
+			[
+				"goo",
+				"good_row"
+			],
+			[
+				"good",
+				"good_row"
+			],
+			[
+				"cos",
+				"cost_col"
+			],
+			[
+				"go",
+				"good_col"
+			],
+			[
+				"cost",
+				"cost_col"
+			],
+			[
+				"vec",
+				"vector"
+			],
+			[
+				"ha",
+				"hash_value"
+			],
+			[
+				"fi",
+				"fixed"
+			],
+			[
+				"rev",
+				"reverse"
+			],
+			[
+				"sti",
+				"stdio.h"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"usin",
+				"using"
+			],
+			[
+				"sy",
+				"sync_with_stdio"
+			],
+			[
+				"usi",
+				"using"
+			],
+			[
+				"size",
+				"size"
+			],
+			[
+				"clas",
+				"class"
+			],
+			[
+				"room",
+				"room_no"
+			],
+			[
+				"room_",
+				"room_no"
+			],
+			[
+				"ro",
+				"room_occupied"
+			],
+			[
+				"ear",
+				"erase"
+			],
+			[
+				"st",
+				"struct"
+			],
+			[
+				"ty",
+				"typename"
+			],
+			[
+				"te",
+				"template"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/DSA/Arrays/Sorting.cpp",
+			"settings":
+			{
+				"buffer_size": 1187,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "/D/DSA/Arrays/Set_Matix_Zeroes.cpp",
+			"settings":
+			{
+				"buffer_size": 554,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "class Solution {"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAATwIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAAEAAAAAAAAAAgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAAAAAAAAAAAAAAwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					27,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAIAAAAAAAAAAgAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAAwAAAAAAAAADAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					29,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAEAAAAAAAAAAQAAAAAAAAABAAAALw",
+					"AQAAAAAAAAABAAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAABAAAALw",
+					"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					35,
+					1,
+					"insert",
+					{
+						"characters": "i"
+					},
+					"AQAAAAEAAAAAAAAAAgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					1,
+					"insert",
+					{
+						"characters": "n"
+					},
+					"AQAAAAIAAAAAAAAAAwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					39,
+					1,
+					"insert",
+					{
+						"characters": "c"
+					},
+					"AQAAAAMAAAAAAAAABAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAwAAAAAAAAADAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					41,
+					1,
+					"insert_completion",
+					{
+						"completion": "include <${1:.h}>",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "inc"
+					},
+					"AgAAAAEAAAAAAAAAAQAAAAAAAAADAAAAaW5jAQAAAAAAAAANAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					1,
+					"insert",
+					{
+						"characters": "i"
+					},
+					"AgAAAAoAAAAAAAAACwAAAAAAAAAAAAAACwAAAAAAAAALAAAAAAAAAAIAAAAuaA",
+					"AQAAAAAAAAABAAAACgAAAAAAAAAMAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					45,
+					1,
+					"insert",
+					{
+						"characters": "o"
+					},
+					"AQAAAAsAAAAAAAAADAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACwAAAAAAAAALAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					47,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAsAAAAAAAAACwAAAAAAAAABAAAAbw",
+					"AQAAAAAAAAABAAAADAAAAAAAAAAMAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					49,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAoAAAAAAAAACgAAAAAAAAABAAAAaQ",
+					"AQAAAAAAAAABAAAACwAAAAAAAAALAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					51,
+					1,
+					"insert",
+					{
+						"characters": "b"
+					},
+					"AQAAAAoAAAAAAAAACwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACgAAAAAAAAAKAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					53,
+					1,
+					"insert",
+					{
+						"characters": "i"
+					},
+					"AQAAAAsAAAAAAAAADAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACwAAAAAAAAALAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					55,
+					1,
+					"insert",
+					{
+						"characters": "t"
+					},
+					"AQAAAAwAAAAAAAAADQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADAAAAAAAAAAMAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					57,
+					1,
+					"insert",
+					{
+						"characters": "s"
+					},
+					"AQAAAA0AAAAAAAAADgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADQAAAAAAAAANAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					59,
+					1,
+					"insert",
+					{
+						"characters": "/"
+					},
+					"AQAAAA4AAAAAAAAADwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADgAAAAAAAAAOAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					61,
+					1,
+					"insert",
+					{
+						"characters": "c"
+					},
+					"AQAAAA8AAAAAAAAAEAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADwAAAAAAAAAPAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					63,
+					1,
+					"left_delete",
+					null,
+					"AQAAAA8AAAAAAAAADwAAAAAAAAABAAAAYw",
+					"AQAAAAAAAAABAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					65,
+					1,
+					"insert",
+					{
+						"characters": "s"
+					},
+					"AQAAAA8AAAAAAAAAEAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADwAAAAAAAAAPAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					67,
+					1,
+					"insert",
+					{
+						"characters": "t"
+					},
+					"AQAAABAAAAAAAAAAEQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					69,
+					1,
+					"insert",
+					{
+						"characters": "d"
+					},
+					"AQAAABEAAAAAAAAAEgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEQAAAAAAAAARAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					71,
+					1,
+					"insert",
+					{
+						"characters": "c"
+					},
+					"AQAAABIAAAAAAAAAEwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEgAAAAAAAAASAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					73,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion_item {\"item\":{\"insertText\":\"stdc++.h>\",\"textEdit\":{\"newText\":\"stdc++.h>\",\"range\":{\"end\":{\"line\":0,\"character\":17},\"start\":{\"line\":0,\"character\":15}}},\"label\":\" stdc++.h>\",\"score\":0.787254273891449,\"filterText\":\"stdc++.h>\",\"insertTextFormat\":2,\"kind\":17,\"sortText\":\"40b67681stdc++.h>\"},\"session_name\":\"clangd\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							29,
+							65,
+							1
+						],
+						"trigger": "stdc++.h>"
+					},
+					"BQAAABIAAAAAAAAAEgAAAAAAAAABAAAAYxEAAAAAAAAAEQAAAAAAAAABAAAAZBAAAAAAAAAAEAAAAAAAAAABAAAAdA8AAAAAAAAADwAAAAAAAAACAAAAcz4PAAAAAAAAABgAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEwAAAAAAAAATAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					76,
+					1,
+					"insert",
+					{
+						"characters": "u"
+					},
+					"AQAAABkAAAAAAAAAGgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGQAAAAAAAAAZAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					78,
+					1,
+					"insert",
+					{
+						"characters": "s"
+					},
+					"AQAAABoAAAAAAAAAGwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGgAAAAAAAAAaAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					80,
+					1,
+					"insert",
+					{
+						"characters": "i"
+					},
+					"AQAAABsAAAAAAAAAHAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGwAAAAAAAAAbAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					82,
+					1,
+					"insert",
+					{
+						"characters": "n"
+					},
+					"AQAAABwAAAAAAAAAHQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHAAAAAAAAAAcAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					84,
+					1,
+					"insert",
+					{
+						"characters": "g"
+					},
+					"AQAAAB0AAAAAAAAAHgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHQAAAAAAAAAdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					87,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAB4AAAAAAAAAHwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHgAAAAAAAAAeAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					89,
+					1,
+					"insert",
+					{
+						"characters": "n"
+					},
+					"AQAAAB8AAAAAAAAAIAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHwAAAAAAAAAfAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					91,
+					1,
+					"insert",
+					{
+						"characters": "a"
+					},
+					"AQAAACAAAAAAAAAAIQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIAAAAAAAAAAgAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					93,
+					1,
+					"insert",
+					{
+						"characters": "m"
+					},
+					"AQAAACEAAAAAAAAAIgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIQAAAAAAAAAhAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					95,
+					1,
+					"insert",
+					{
+						"characters": "s"
+					},
+					"AQAAACIAAAAAAAAAIwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIgAAAAAAAAAiAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					97,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion_item {\"item\":{\"insertText\":\"namespace\",\"textEdit\":{\"newText\":\"namespace\",\"range\":{\"end\":{\"line\":1,\"character\":6},\"start\":{\"line\":1,\"character\":6}}},\"label\":\" namespace\",\"score\":0.8493241667747498,\"filterText\":\"namespace\",\"insertTextFormat\":2,\"kind\":14,\"sortText\":\"40a692b1namespace\"},\"session_name\":\"clangd\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							40,
+							87,
+							1
+						],
+						"trigger": "namespace"
+					},
+					"BQAAACIAAAAAAAAAIgAAAAAAAAABAAAAcyEAAAAAAAAAIQAAAAAAAAABAAAAbSAAAAAAAAAAIAAAAAAAAAABAAAAYR8AAAAAAAAAHwAAAAAAAAABAAAAbh8AAAAAAAAAKAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIwAAAAAAAAAjAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					99,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAACgAAAAAAAAAKQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKAAAAAAAAAAoAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					101,
+					1,
+					"insert",
+					{
+						"characters": "s"
+					},
+					"AQAAACkAAAAAAAAAKgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKQAAAAAAAAApAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					103,
+					1,
+					"insert",
+					{
+						"characters": "t"
+					},
+					"AQAAACoAAAAAAAAAKwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKgAAAAAAAAAqAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					105,
+					1,
+					"insert",
+					{
+						"characters": "d"
+					},
+					"AQAAACsAAAAAAAAALAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKwAAAAAAAAArAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					107,
+					1,
+					"insert",
+					{
+						"characters": ";"
+					},
+					"AQAAACwAAAAAAAAALQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALAAAAAAAAAAsAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					109,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAC0AAAAAAAAALgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALQAAAAAAAAAtAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					111,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAC4AAAAAAAAALwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALgAAAAAAAAAuAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					116,
+					1,
+					"lsp_apply_document_edit",
+					{
+						"changes":
+						[
+							[
+								[
+									1,
+									20
+								],
+								[
+									4,
+									0
+								],
+								"\n\n",
+								null
+							],
+							[
+								[
+									5,
+									7
+								],
+								[
+									6,
+									4
+								],
+								"\n  ",
+								null
+							],
+							[
+								[
+									6,
+									38
+								],
+								[
+									6,
+									38
+								],
+								" ",
+								null
+							],
+							[
+								[
+									6,
+									39
+								],
+								[
+									6,
+									40
+								],
+								"",
+								null
+							],
+							[
+								[
+									6,
+									49
+								],
+								[
+									7,
+									8
+								],
+								"\n    ",
+								null
+							],
+							[
+								[
+									7,
+									26
+								],
+								[
+									8,
+									8
+								],
+								"\n    ",
+								null
+							],
+							[
+								[
+									8,
+									52
+								],
+								[
+									9,
+									8
+								],
+								"\n    ",
+								null
+							],
+							[
+								[
+									9,
+									11
+								],
+								[
+									9,
+									11
+								],
+								" ",
+								null
+							],
+							[
+								[
+									9,
+									28
+								],
+								[
+									9,
+									29
+								],
+								"",
+								null
+							],
+							[
+								[
+									9,
+									35
+								],
+								[
+									9,
+									35
+								],
+								" ",
+								null
+							],
+							[
+								[
+									9,
+									36
+								],
+								[
+									10,
+									12
+								],
+								"\n      ",
+								null
+							],
+							[
+								[
+									10,
+									15
+								],
+								[
+									10,
+									15
+								],
+								" ",
+								null
+							],
+							[
+								[
+									10,
+									32
+								],
+								[
+									10,
+									33
+								],
+								"",
+								null
+							],
+							[
+								[
+									10,
+									39
+								],
+								[
+									10,
+									39
+								],
+								" ",
+								null
+							],
+							[
+								[
+									10,
+									40
+								],
+								[
+									11,
+									16
+								],
+								"\n        ",
+								null
+							],
+							[
+								[
+									11,
+									18
+								],
+								[
+									11,
+									18
+								],
+								" ",
+								null
+							],
+							[
+								[
+									11,
+									32
+								],
+								[
+									11,
+									33
+								],
+								"\n          ",
+								null
+							],
+							[
+								[
+									11,
+									42
+								],
+								[
+									12,
+									16
+								],
+								"\n        ",
+								null
+							],
+							[
+								[
+									12,
+									30
+								],
+								[
+									13,
+									16
+								],
+								"\n        ",
+								null
+							],
+							[
+								[
+									13,
+									30
+								],
+								[
+									14,
+									12
+								],
+								"\n      ",
+								null
+							],
+							[
+								[
+									14,
+									13
+								],
+								[
+									15,
+									8
+								],
+								"\n    ",
+								null
+							],
+							[
+								[
+									15,
+									9
+								],
+								[
+									16,
+									8
+								],
+								"\n    ",
+								null
+							],
+							[
+								[
+									16,
+									11
+								],
+								[
+									16,
+									11
+								],
+								" ",
+								null
+							],
+							[
+								[
+									16,
+									24
+								],
+								[
+									16,
+									24
+								],
+								" ",
+								null
+							],
+							[
+								[
+									16,
+									25
+								],
+								[
+									17,
+									12
+								],
+								"\n      ",
+								null
+							],
+							[
+								[
+									17,
+									15
+								],
+								[
+									17,
+									15
+								],
+								" ",
+								null
+							],
+							[
+								[
+									17,
+									32
+								],
+								[
+									17,
+									33
+								],
+								"",
+								null
+							],
+							[
+								[
+									17,
+									39
+								],
+								[
+									18,
+									16
+								],
+								"\n        ",
+								null
+							],
+							[
+								[
+									18,
+									32
+								],
+								[
+									18,
+									33
+								],
+								"",
+								null
+							],
+							[
+								[
+									18,
+									34
+								],
+								[
+									19,
+									8
+								],
+								"\n    ",
+								null
+							],
+							[
+								[
+									19,
+									9
+								],
+								[
+									20,
+									8
+								],
+								"\n    ",
+								null
+							],
+							[
+								[
+									20,
+									11
+								],
+								[
+									20,
+									11
+								],
+								" ",
+								null
+							],
+							[
+								[
+									20,
+									17
+								],
+								[
+									20,
+									17
+								],
+								" ",
+								null
+							],
+							[
+								[
+									20,
+									23
+								],
+								[
+									20,
+									23
+								],
+								" ",
+								null
+							],
+							[
+								[
+									20,
+									24
+								],
+								[
+									21,
+									12
+								],
+								"\n      ",
+								null
+							],
+							[
+								[
+									21,
+									15
+								],
+								[
+									21,
+									15
+								],
+								" ",
+								null
+							],
+							[
+								[
+									21,
+									32
+								],
+								[
+									21,
+									33
+								],
+								"",
+								null
+							],
+							[
+								[
+									21,
+									39
+								],
+								[
+									22,
+									16
+								],
+								"\n        ",
+								null
+							],
+							[
+								[
+									22,
+									32
+								],
+								[
+									22,
+									33
+								],
+								"",
+								null
+							],
+							[
+								[
+									22,
+									34
+								],
+								[
+									23,
+									8
+								],
+								"\n    ",
+								null
+							],
+							[
+								[
+									23,
+									9
+								],
+								[
+									24,
+									4
+								],
+								"\n  ",
+								null
+							]
+						]
+					},
+					"KQAAAHYCAAAAAAAAeQIAAAAAAAAFAAAACiAgICBsAgAAAAAAAHECAAAAAAAACQAAAAogICAgICAgIGoCAAAAAAAAagIAAAAAAAABAAAAIEkCAAAAAAAAUgIAAAAAAAARAAAACiAgICAgICAgICAgICAgICBCAgAAAAAAAEICAAAAAAAAAQAAACAxAgAAAAAAADICAAAAAAAAAAAAACECAAAAAAAAKAIAAAAAAAANAAAACiAgICAgICAgICAgICACAAAAAAAAIQIAAAAAAAAAAAAAGgIAAAAAAAAbAgAAAAAAAAAAAAAUAgAAAAAAABUCAAAAAAAAAAAAAAgCAAAAAAAADQIAAAAAAAAJAAAACiAgICAgICAg/gEAAAAAAAADAgAAAAAAAAkAAAAKICAgICAgICD8AQAAAAAAAPwBAAAAAAAAAQAAACDbAQAAAAAAAOQBAAAAAAAAEQAAAAogICAgICAgICAgICAgICAg1AEAAAAAAADUAQAAAAAAAAEAAAAgwwEAAAAAAADEAQAAAAAAAAAAAACzAQAAAAAAALoBAAAAAAAADQAAAAogICAgICAgICAgICCyAQAAAAAAALMBAAAAAAAAAAAAAKUBAAAAAAAApgEAAAAAAAAAAAAAmQEAAAAAAACeAQAAAAAAAAkAAAAKICAgICAgICCPAQAAAAAAAJQBAAAAAAAACQAAAAogICAgICAgIIEBAAAAAAAAiAEAAAAAAAANAAAACiAgICAgICAgICAgIGIBAAAAAAAAawEAAAAAAAARAAAACiAgICAgICAgICAgICAgICBDAQAAAAAAAEwBAAAAAAAAEQAAAAogICAgICAgICAgICAgICAgOQEAAAAAAABEAQAAAAAAAAEAAAAgKwEAAAAAAAAsAQAAAAAAAAAAAAAYAQAAAAAAACEBAAAAAAAAEQAAAAogICAgICAgICAgICAgICAgFwEAAAAAAAAYAQAAAAAAAAAAAAAQAQAAAAAAABABAAAAAAAAAQAAACD/AAAAAAAAAAABAAAAAAAAAAAAAO8AAAAAAAAA9gAAAAAAAAANAAAACiAgICAgICAgICAgIO4AAAAAAAAA7wAAAAAAAAAAAAAA5wAAAAAAAADnAAAAAAAAAAEAAAAg1gAAAAAAAADXAAAAAAAAAAAAAADKAAAAAAAAAM8AAAAAAAAACQAAAAogICAgICAgIJUAAAAAAAAAmgAAAAAAAAAJAAAACiAgICAgICAgegAAAAAAAAB/AAAAAAAAAAkAAAAKICAgICAgICBwAAAAAAAAAHAAAAAAAAAAAQAAACBvAAAAAAAAAHAAAAAAAAAAAAAAAEgAAAAAAAAASwAAAAAAAAAFAAAACiAgICAtAAAAAAAAAC8AAAAAAAAAAwAAAAoKCg",
+					"AQAAAAAAAAABAAAATAAAAAAAAABMAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/RunJava.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Python Terminus.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Python Terminus.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/RunJava.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Python Terminus.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Python Terminus.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Python Terminus.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/User/Python Terminus.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/c++17 Terminus.sublime-build",
+					""
+				],
+				[
+					"Packages/User/c++17 Terminus.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/c++17 Terminus.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pre",
+				"Preferences: Settings"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"lsp se",
+				"Preferences: LSP Settings"
+			],
+			[
+				"col",
+				"UI: Select Color Scheme"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"snipp",
+				"Snippet: mytemplate"
+			],
+			[
+				"lsp s",
+				"Preferences: LSP Settings"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"en",
+				"Package Control: Enable Package"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"forma",
+				"LSP: Format File"
+			],
+			[
+				"the",
+				"UI: Select Theme"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"self",
+				"Go to 1self Dashboard"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"disba",
+				"Package Control: Disable Package"
+			],
+			[
+				"format",
+				"LSP: Format File"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"rain",
+				"RainbowBrackets: Setup Plugin"
+			],
+			[
+				"raind",
+				"RainbowBrackets: Toggle Debug"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"diab",
+				"Package Control: Disable Package"
+			],
+			[
+				"ana",
+				"Anaconda: Set Python interpreter"
+			],
+			[
+				"pip inst",
+				"Package Control: Install Package"
+			],
+			[
+				"di",
+				"Package Control: Disable Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"co",
+				"FastOlympicCoding: Open Settings"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"togg",
+				"View: Toggle Menu"
+			],
+			[
+				"cust",
+				"UI: Customize Color Scheme"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"th",
+				"UI: Select Theme"
+			],
+			[
+				"lsp",
+				"LSP: Run Code Action"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"lsit",
+				"Package Control: List Packages"
+			],
+			[
+				"permu",
+				"Permute Lines: Reverse"
+			],
+			[
+				"lsp en",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"pyright",
+				"Preferences: LSP-pyright Settings"
+			],
+			[
+				"view",
+				"View Package File"
+			],
+			[
+				"vi",
+				"View Package File"
+			],
+			[
+				"snippe",
+				"Snippet: error"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"view pa",
+				"View Package File"
+			],
+			[
+				"dia",
+				"LSP: Disable Language Server Globally"
+			],
+			[
+				"lsp pr",
+				"Preferences: LSP Settings"
+			],
+			[
+				"ls",
+				"Preferences: LSP Settings"
+			],
+			[
+				"fas",
+				"FastOlympicCoding: Open Settings"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ina",
+				"Indentation: Detect"
+			],
+			[
+				"lsp set",
+				"Preferences: LSP Settings"
+			],
+			[
+				"lsp lis",
+				"LSP: Disable Language Server Globally"
+			],
+			[
+				"server",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"end",
+				"Package Control: Enable Debug Mode"
+			],
+			[
+				"lsi",
+				"Package Control: List Packages"
+			],
+			[
+				"lsp dis",
+				"LSP: Disable Language Server Globally"
+			],
+			[
+				"lsp ",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"log",
+				"LSP: Toggle Diagnostics Panel"
+			],
+			[
+				"ter",
+				"Preferences: Terminus Command Palette"
+			],
+			[
+				"def",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"shell",
+				"Terminus: List Shells"
+			],
+			[
+				"je",
+				"SublimeJedi: Show Docstring"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"ecc",
+				"ECC: Settings"
+			],
+			[
+				"env",
+				"EnvSwitcher: Choose Environment"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"subl",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"su",
+				"SublimeLinter: Toggle Highlights"
+			],
+			[
+				"e",
+				"ECC: Show all errors"
+			],
+			[
+				"relo",
+				"SublimeLinter: Reload SublimeLinter and its Plugins"
+			],
+			[
+				"ec",
+				"ECC: Settings"
+			],
+			[
+				"install c",
+				"Package Control: Install Package"
+			],
+			[
+				"eccs",
+				"ECC: (Bazel) Generate compile_commands.json"
+			],
+			[
+				"ecc info",
+				"ECC: Show popup info"
+			],
+			[
+				"disp",
+				"Package Control: Disable Package"
+			],
+			[
+				"linter",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"linet",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"sublime",
+				"SublimeLinter: Goto Error"
+			],
+			[
+				"fa",
+				"FastOlympicCoding: Open Settings"
+			],
+			[
+				"",
+				"Build With: c++17"
+			],
+			[
+				"ancod",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"ren",
+				"Rename File"
+			],
+			[
+				"anco",
+				"Anaconda: Vagrant Enable"
+			],
+			[
+				"jd",
+				"SublimeJedi: Show Docstring"
+			],
+			[
+				"anacod",
+				"Anaconda: Display object docs"
+			],
+			[
+				"an",
+				"Anaconda: Show error list"
+			],
+			[
+				"ecc ",
+				"ECC: Settings"
+			],
+			[
+				"f",
+				"FastOlympicCoding: Open Settings"
+			],
+			[
+				"rina",
+				"RainbowBrackets: clear rainbow"
+			],
+			[
+				"sett",
+				"Preferences: Settings"
+			],
+			[
+				"bra",
+				"BracketHighlighter: Settings"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"fast",
+				"FastOlympicCoding: Open Settings"
+			],
+			[
+				"show",
+				"ECC: Show all errors"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"jedi",
+				"SublimeJedi: Show Docstring"
+			],
+			[
+				"anacoda",
+				"Anaconda: Display object docs"
+			],
+			[
+				"contes",
+				"FastOlympicCoding: Setup Contest"
+			],
+			[
+				"install ki",
+				"Package Control: Install Package"
+			],
+			[
+				"isnt",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"anaconda",
+				"Anaconda: Vagrant Up"
+			],
+			[
+				"anco setti",
+				"Anaconda: Set Python interpreter"
+			],
+			[
+				"anaco",
+				"Anaconda: Find object usage"
+			],
+			[
+				"a",
+				"Arithmetic"
+			],
+			[
+				"anacond",
+				"Anaconda: Vagrant Enable"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			],
+			[
+				"instl",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"vpf",
+				"View Package File"
+			],
+			[
+				"p",
+				"Preferences: Settings"
+			],
+			[
+				"pr",
+				"Preferences: Settings"
+			],
+			[
+				"ma",
+				"FastOlympicCoding: Make Stress"
+			],
+			[
+				"m",
+				"FastOlympicCoding: Make Stress"
+			],
+			[
+				"stres",
+				"FastOlympicCoding: Make Stress"
+			],
+			[
+				"ints",
+				"Help: Indexing Status"
+			],
+			[
+				"mak",
+				"FastOlympicCoding: Make Stress"
+			],
+			[
+				"settin",
+				"FastOlympicCoding: Open Settings"
+			],
+			[
+				"setting",
+				"FastOlympicCoding: Open Settings"
+			],
+			[
+				"settings",
+				"FastOlympicCoding: Open Settings"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 253.0,
+		"history":
+		[
+			"243/3",
+			"729 + 81",
+			"729 + 243",
+			"11/3",
+			"10/1",
+			"5/5",
+			"21/3",
+			"math.lcm(1,1)",
+			"import math",
+			"math.lcm(1,1)",
+			"math.gcd(12,1)",
+			"math.gcd(10,1)",
+			"math.gcd(7,1)",
+			"import math",
+			"4 *3/2",
+			"4 * 3/2",
+			"2314 + 2374*2",
+			"33/3",
+			"5/1",
+			"15/3",
+			"10/2 ",
+			"4<<1",
+			"2<<1",
+			"1<<1",
+			"2 ** 30",
+			"2 ** 20",
+			"2 ** 10",
+			"6 * 2",
+			"3 * 3**19",
+			"3 * 3**18",
+			"3 * 3**20",
+			"3 * 3**9",
+			"3 * 3**99",
+			"3 * 3**999",
+			"81/27",
+			"9*3*3",
+			"9*3",
+			"21/9",
+			"63/21",
+			"2**30",
+			"10/8",
+			"1 + 11%8",
+			"11/8 ",
+			"12 * 1",
+			"10/8",
+			"5 % 4",
+			"1%10",
+			"10/1",
+			"10 % 1",
+			"1991601 * 1991602 ",
+			" 1991601 * 1991602 ",
+			"12/4",
+			"166 * 166",
+			"1000/6 ",
+			"1000/6 * 2",
+			"128 * 2",
+			"7 + 6",
+			"450 % 360",
+			"2**5 == 5*5",
+			"2**4 == 4*4",
+			"2**3 == 3*3",
+			"2**3 3*3",
+			"2**2",
+			"2*2",
+			"2**4",
+			"2**100",
+			"2**10",
+			"2**9",
+			"2**7",
+			"2**6",
+			"2**623947744\n2**623947744\n",
+			"5<<1",
+			"4<<1",
+			"3 & 6 & 12",
+			"6 & 7 & (6|7)",
+			"3|6",
+			"3 & (3|6) & 6",
+			"2**26",
+			"2**24",
+			"2**25",
+			"2**21",
+			"2**20",
+			"2**30",
+			"2**10",
+			"2*10",
+			"x = (x<<1)",
+			"x = x<<1",
+			"x<<1",
+			"x = 1e8",
+			"3%0",
+			"math.gcd(5,0)",
+			"import math",
+			"2**100",
+			"2**30",
+			"2**18",
+			"bin(5)",
+			"bin(15)",
+			"15",
+			"bin(5)",
+			"bin(7)",
+			"8/3",
+			"8/2",
+			"8/1",
+			"8/3",
+			"5/2",
+			"8/2",
+			"4/1",
+			"4/3",
+			"4/2",
+			"1/3",
+			"\n200000 * 1\n",
+			"28 % 7",
+			"371 % 7",
+			"47%20",
+			"12+35",
+			"35%20",
+			"53%20",
+			"1 ^ 6",
+			"1 ^ 5",
+			"5/2",
+			"7&8",
+			"4&11",
+			"3&12",
+			"0 1 2 33&12",
+			"3 & 4",
+			"2 & 5",
+			"0 & 6",
+			"1 & 7 "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/DSA",
+		"/D/DSA/Arrays"
+	],
+	"file_history":
+	[
+		"/C/Users/ROHAN/OneDrive/Documents/resume.tex",
+		"/D/subcode/dp/CF.py",
+		"/D/subcode/dp/A.cpp",
+		"/C/msys64/mingw64/include/c++/11.2.0/bits/stl_algobase.h",
+		"/D/subcode/dp/outputf.in",
+		"/D/subcode/dp/error.txt",
+		"/D/subcode/dp/outputf.out",
+		"/D/subcode/dp/B.cpp",
+		"/D/subcode/dp/learnTS.ts",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/Debugging.sublime-snippet",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/testcase.sublime-snippet",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/SublimeAStyleFormatter.sublime-settings",
+		"/D/CSES/DP/Coin_Combination_II.cpp",
+		"/D/subcode/dp/B__Generator.cpp",
+		"/D/subcode/dp/inputf.in",
+		"/C/msys64/mingw64/x86_64-w64-mingw32/include/time.h",
+		"/D/subcode/dp/pyrightconfig.json",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/mytemplate.sublime-snippet",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/error.sublime-snippet",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/Matlab/Snippets/error.sublime-snippet",
+		"/C/msys64/mingw64/include/c++/11.2.0/stdlib.h",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/block-popup.py",
+		"/D/subcode/dp/Coin_Problem.cpp",
+		"/D/subcode/dp/randomGibherish",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/C++.sublime-package",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/C++/C++ Single File.sublime-build",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/c++17.sublime-build",
+		"/D/CSES/Sorting and Searching/Sum_of_three_values.cpp",
+		"/D/subcode/dp/temp.cpp",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/CppFastOlympicCoding/FastOlympicCoding (Windows).sublime-settings",
+		"/C/msys64/usr/bin/pip",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/SublimeLinter-gcc/CHANGELOG.md",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/ClangAutoComplete/ClangAutoComplete.sublime-settings",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/SublimeLinter-gcc/miscellaneous/demo.cpp",
+		"/D/subcode/dp/X.cpp",
+		"/C/Users/ROHAN/wsl programs/kyapata.cpp",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/rbk.sublime-snippet",
+		"/C/msys64/mingw64/include/c++/11.2.0/bits/stringfwd.h",
+		"/D/subcode/dp/linkedlist.cpp",
+		"/D/subcode/dp/SegmentedSieve.cpp",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/Jedi - Python autocompletion/sublime_jedi.sublime-settings",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/sublime_jedi.sublime-settings",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/Anaconda/Preferences.sublime-settings",
+		"/D/Leetcoding/Subsets-2.cpp",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/CPP17_CLANG.sublime-build",
+		"/C/msys64/mingw64/include/c++/11.2.0/bits/stl_vector.h",
+		"/C/msys64/mingw64/include/c++/11.2.0/ext/type_traits.h",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/SublimePythonIDE/SublimePython.sublime-settings",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/AutoPep8.sublime-settings",
+		"/D/subcode/dp/check_clang.cpp",
+		"/C/msys64/mingw64/include/c++/11.2.0/fstream",
+		"/D/subcode/dp/111.cpp",
+		"/D/subcode/dp/LCS&LCSS.cpp",
+		"/D/Leetcoding/Templates/PBDS.cpp",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/TabNine/TabNine.sublime-settings",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/TabNine.sublime-settings",
+		"/D/subcode/dp/B__Good.cpp",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/C/Users/ROHAN/OneDrive/Documents/Port_Scanner.cpp",
+		"/D/subcode/dp/equalsumpartition.cpp",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/Preferences.sublime-settings",
+		"/D/subcode/dp/try.c",
+		"/D/subcode/dp/graphs.cpp",
+		"/D/subcode/frog1.cpp",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/Python Terminus.sublime-build",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/C++/C.sublime-syntax",
+		"/D/Atomcode/test.py",
+		"/D/subcode/dp/visual.c",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/Python/Python.sublime-build",
+		"/D/subcode/dp/Counting_Towers.cpp",
+		"/D/subcode/dp/Array_Description.cpp",
+		"/D/subcode/dp/CollectingNumbers-II.cpp",
+		"/D/subcode/dp/primes.exe.stackdump",
+		"/D/subcode/dp/targetsum.cpp",
+		"/D/subcode/dp/Nested_Range_Count.cpp",
+		"/C/Users/ROHAN/OneDrive/Desktop/htmls/projects/boring-news/src/components/News.js",
+		"/D/subcode/dp/N_QueenProblem.cpp",
+		"/D/Leetcoding/NextGreaterElement.cpp",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/Generator.sublime-snippet",
+		"/C/Users/ROHAN/wsl programs/B_Array_Reodering.cpp",
+		"/D/Atomcode/gean.cpp",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/SublimeAStyleFormatter/SublimeAStyleFormatter.sublime-settings",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/CPP17_MYSYS.sublime-build",
+		"/D/subcode/dp/X.exe.stackdump",
+		"/D/subcode/dp/primes.cpp",
+		"/D/Atomcode/PythonProjects/RockPaperScissors.py",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/CPP17_second.sublime-build",
+		"/D/subcode/Maths(CP)/error.txt",
+		"/D/subcode/Maths(CP)/inputf.in",
+		"/D/subcode/Maths(CP)/outputf.out",
+		"/D/subcode/Maths(CP)/check.cpp",
+		"/D/subcode/Maths(CP)/hello.cpp",
+		"/D/subcode/dp/try.cpp",
+		"/D/subcode/Sublime_Workspaces/error.txt",
+		"/D/subcode/Sublime_Workspaces/graphs.cpp",
+		"/D/subcode/Sublime_Workspaces/A.cpp",
+		"/D/subcode/Sublime_Workspaces/111.cpp",
+		"/D/subcode/Sublime_Workspaces/X.cpp",
+		"/D/subcode/Sublime_Workspaces/B.cpp",
+		"/D/subcode/Sublime_Workspaces/inputf.in",
+		"/D/subcode/Sublime_Workspaces/outputf.in",
+		"/D/subcode/dp/QuickSort.cpp",
+		"/D/subcode/dp/myjava.java",
+		"/D/subcode/dp/NEW.java",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/javasnippet.sublime-snippet",
+		"/D/subcode/dp/subset_sum.cpp",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/Terminus/Terminus.sublime-settings",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/Terminal/Terminal.sublime-settings",
+		"/D/subcode/dp/countsubsetsum.cpp",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/Terminal/Default (Windows).sublime-keymap",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/Terminus.sublime-settings",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/jjava.sublime-build",
+		"/D/subcode/dp/myfirst.java",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/RunJava.sublime-build",
+		"/D/subcode/dp/kjlights.cpp",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/debug.sublime-snippet",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/clang_format.sublime-settings",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/Material Theme/Preferences.sublime-settings",
+		"/D/subcode/inputf.in",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/OneDark.sublime-color-scheme",
+		"/D/subcode/a.exe",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/One Dark Material - Theme/schemes/OneDark.tmTheme",
+		"/C/Users/ROHAN/OneDrive/Documents/pythoncode/hello.py"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 118.4,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/DSA/Arrays/Sorting.cpp",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1187,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								520,
+								520
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ".<>:\"/",
+									"selector": "punctuation.accessor | (meta.preprocessor.include string - punctuation.definition.string.end)",
+									"server": "clangd"
+								}
+							],
+							"lsp_active": true,
+							"lsp_hover_provider_count": 1,
+							"lsp_uri": "file:///D:/DSA/Arrays/Sorting.cpp",
+							"show_definitions": false,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/DSA/Arrays/Set_Matix_Zeroes.cpp",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 554,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								554,
+								554
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ".<>:\"/",
+									"selector": "punctuation.accessor | (meta.preprocessor.include string - punctuation.definition.string.end)",
+									"server": "clangd"
+								}
+							],
+							"auto_name": "class Solution {",
+							"lsp_active": true,
+							"lsp_hover_provider_count": 1,
+							"lsp_uri": "file:///D:/DSA/Arrays/Set_Matix_Zeroes.cpp",
+							"show_definitions": false,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 83.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 81.0
+	},
+	"output.Terminus":
+	{
+		"height": 315.0
+	},
+	"output.Terminus 2":
+	{
+		"height": 264.0
+	},
+	"output.Terminus 3":
+	{
+		"height": 150.399993896
+	},
+	"output.Terminus 4":
+	{
+		"height": 150.399993896
+	},
+	"output.Terminus 5":
+	{
+		"height": 150.399993896
+	},
+	"output.Terminus Build Results":
+	{
+		"height": 164.0
+	},
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
+	"output.autopep8":
+	{
+		"height": 0.0
+	},
+	"output.diagnostics":
+	{
+		"height": 83.0
+	},
+	"output.exec":
+	{
+		"height": 106.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.language servers":
+	{
+		"height": 400.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups-dummy":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/c++17.sublime-build",
+	"project": "DSA.sublime-project",
+	"replace":
+	{
+		"height": 60.8
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ts",
+				"dp\\learnTS.ts"
+			],
+			[
+				"out",
+				"dp\\outputf.in"
+			],
+			[
+				"ou",
+				"dp\\outputf.in"
+			],
+			[
+				"b",
+				"dp\\B.cpp"
+			],
+			[
+				"err",
+				"dp\\error.txt"
+			],
+			[
+				"cf",
+				"dp\\CF.py"
+			],
+			[
+				"oo",
+				"dp\\outputf.out"
+			],
+			[
+				"B.cpp",
+				"dp\\B.cpp"
+			],
+			[
+				"py",
+				"dp\\CF.py"
+			],
+			[
+				"in",
+				"dp\\inputf.in"
+			],
+			[
+				"cp",
+				"dp\\CF.py"
+			],
+			[
+				"",
+				"dp\\A.cpp"
+			],
+			[
+				"A",
+				"dp\\A.cpp"
+			],
+			[
+				"CF",
+				"dp\\CF.py"
+			],
+			[
+				"p",
+				"dp\\CF.py"
+			],
+			[
+				"lin",
+				"dp\\linkedlist.cpp"
+			],
+			[
+				"sevi",
+				"dp\\SegmentedSieve.cpp"
+			],
+			[
+				"tem",
+				"dp\\temp.cpp"
+			],
+			[
+				"u",
+				"dp\\outputf.in"
+			],
+			[
+				"a",
+				"dp\\A.cpp"
+			],
+			[
+				"clan",
+				"dp\\check_clang.cpp"
+			],
+			[
+				"lsc",
+				"dp\\LCS&LCSS.cpp"
+			],
+			[
+				"B",
+				"dp\\B.cpp"
+			],
+			[
+				"e",
+				"dp\\error.txt"
+			],
+			[
+				"temp",
+				"dp\\temp.cpp"
+			],
+			[
+				".c",
+				"dp\\try.c"
+			],
+			[
+				"goo",
+				"dp\\B__Good.cpp"
+			],
+			[
+				"c",
+				"dp\\CF.py"
+			],
+			[
+				"b.cpp",
+				"dp\\B.cpp"
+			],
+			[
+				"L",
+				"dp\\LCS&LCSS.cpp"
+			],
+			[
+				"pe",
+				"dp\\primes.exe.stackdump"
+			],
+			[
+				"ta",
+				"dp\\targetsum.cpp"
+			],
+			[
+				"er",
+				"dp\\error.txt"
+			],
+			[
+				"te",
+				"dp\\temp.cpp"
+			],
+			[
+				"tme",
+				"dp\\temp.cpp"
+			],
+			[
+				"gen",
+				"dp\\B__Generator.cpp"
+			],
+			[
+				"b__",
+				"dp\\B__Generator.cpp"
+			],
+			[
+				"put",
+				"outputf.in"
+			],
+			[
+				"o",
+				"outputf.in"
+			],
+			[
+				"m",
+				"myjava.java"
+			],
+			[
+				"N",
+				"NEW.java"
+			],
+			[
+				"tr",
+				"try.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 545.6,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\subcode\\Sublime_Workspaces\\CPsetup.sublime-workspace"
+			]
+		],
+		"width": 471.2
+	},
+	"select_symbol":
+	{
+		"height": 303.0,
+		"last_filter": "sieve",
+		"selected_items":
+		[
+			[
+				"sieve",
+				"CreateSieve"
+			],
+			[
+				"",
+				"countsubsetdp"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 243.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

@@ -1,0 +1,1675 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"pygame"
+			],
+			[
+				"if",
+				"ifmain"
+			],
+			[
+				"main",
+				"ifmain"
+			],
+			[
+				"pop",
+				"pop_back"
+			],
+			[
+				"emp",
+				"empty"
+			],
+			[
+				"fa",
+				"factorial"
+			],
+			[
+				"r",
+				"readyPC"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"pint",
+				"print"
+			],
+			[
+				"prin",
+				"print"
+			],
+			[
+				"std",
+				"stdlib.h"
+			],
+			[
+				"in",
+				"inc"
+			],
+			[
+				"a",
+				"argv"
+			],
+			[
+				"cnt",
+				"cntMedian"
+			],
+			[
+				"vi",
+				"vi"
+			],
+			[
+				"m",
+				"median"
+			],
+			[
+				"co",
+				"col_sum"
+			],
+			[
+				"col",
+				"col_sum"
+			],
+			[
+				"goo",
+				"good_row"
+			],
+			[
+				"good",
+				"good_row"
+			],
+			[
+				"cos",
+				"cost_col"
+			],
+			[
+				"go",
+				"good_col"
+			],
+			[
+				"cost",
+				"cost_col"
+			],
+			[
+				"pr",
+				"printf"
+			],
+			[
+				"vec",
+				"vector"
+			],
+			[
+				"be",
+				"beginend"
+			],
+			[
+				"ha",
+				"hash_value"
+			],
+			[
+				"us",
+				"unsigned"
+			],
+			[
+				"po",
+				"point"
+			],
+			[
+				"set",
+				"setprecision"
+			],
+			[
+				"fi",
+				"fixed"
+			],
+			[
+				"rev",
+				"reverse"
+			],
+			[
+				"cre",
+				"CreateSieve"
+			],
+			[
+				"t",
+				"totalNodes"
+			],
+			[
+				"to",
+				"totalNodes"
+			],
+			[
+				"em",
+				"empty"
+			],
+			[
+				"ios",
+				"iostream"
+			],
+			[
+				"sti",
+				"stdio.h"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"usin",
+				"using"
+			],
+			[
+				"cla",
+				"class"
+			],
+			[
+				"sy",
+				"sync_with_stdio"
+			],
+			[
+				"print",
+				"printf"
+			],
+			[
+				"usi",
+				"using"
+			],
+			[
+				"cou",
+				"cout"
+			],
+			[
+				"pri",
+				"printf"
+			],
+			[
+				"is",
+				"is_prime"
+			],
+			[
+				"size",
+				"size"
+			],
+			[
+				"max",
+				"max_element"
+			],
+			[
+				"vl",
+				"vl"
+			],
+			[
+				"clas",
+				"class"
+			],
+			[
+				"room",
+				"room_no"
+			],
+			[
+				"ma",
+				"max_element"
+			],
+			[
+				"room_",
+				"room_no"
+			],
+			[
+				"ro",
+				"room_occupied"
+			],
+			[
+				"ear",
+				"erase"
+			],
+			[
+				"st",
+				"struct"
+			],
+			[
+				"ty",
+				"typename"
+			],
+			[
+				"te",
+				"template"
+			],
+			[
+				"conta",
+				"contained"
+			],
+			[
+				"struc",
+				"struct"
+			],
+			[
+				"pref",
+				"prefixOfLeft"
+			],
+			[
+				"cont",
+				"contains"
+			],
+			[
+				"contian",
+				"contained"
+			],
+			[
+				"ra",
+				"ranges"
+			],
+			[
+				"ope",
+				"operator"
+			],
+			[
+				"str",
+				"struct"
+			],
+			[
+				"nex",
+				"next_permutation"
+			],
+			[
+				"low",
+				"lower_bound"
+			],
+			[
+				"su",
+				"substrs"
+			],
+			[
+				"fre",
+				"freqPrimeFactor_A"
+			],
+			[
+				"generate",
+				"Generate"
+			],
+			[
+				"lo",
+				"lower_bound"
+			],
+			[
+				"so",
+				"sort"
+			],
+			[
+				"ins",
+				"insert"
+			],
+			[
+				"si",
+				"size"
+			],
+			[
+				"b",
+				"break"
+			],
+			[
+				"pe",
+				"preffix"
+			],
+			[
+				"tem",
+				"temp1"
+			],
+			[
+				"s",
+				"size"
+			],
+			[
+				"bak",
+				"back"
+			],
+			[
+				"d",
+				"digit"
+			],
+			[
+				"Cre",
+				"CreateSieve"
+			],
+			[
+				"ran",
+				"random"
+			],
+			[
+				"ne",
+				"nextLargerElement"
+			],
+			[
+				"pus",
+				"push_back"
+			],
+			[
+				"ve",
+				"vector"
+			],
+			[
+				"u",
+				"unsigned"
+			],
+			[
+				"Min",
+				"MinPower"
+			],
+			[
+				"flo",
+				"float"
+			],
+			[
+				"Fi",
+				"FirstFive"
+			],
+			[
+				"sor",
+				"sort"
+			],
+			[
+				"fo",
+				"found_x"
+			],
+			[
+				"un",
+				"unsigned"
+			],
+			[
+				"Pre",
+				"PrefixSum"
+			],
+			[
+				"f",
+				"FirstMultiple"
+			],
+			[
+				"prit",
+				"printf"
+			],
+			[
+				"de",
+				"define"
+			],
+			[
+				"val",
+				"validDigits"
+			],
+			[
+				"er",
+				"erase"
+			],
+			[
+				"ba",
+				"back"
+			],
+			[
+				"swap",
+				"swap"
+			],
+			[
+				"pre",
+				"preffix"
+			],
+			[
+				"setp",
+				"setprecision"
+			],
+			[
+				"wr",
+				"wr_left"
+			],
+			[
+				"h",
+				"hr_down"
+			],
+			[
+				"w",
+				"wr_left"
+			],
+			[
+				"hr",
+				"hr_up"
+			],
+			[
+				"do",
+				"double"
+			],
+			[
+				"cn",
+				"cnt_even"
+			],
+			[
+				"sw",
+				"swap"
+			],
+			[
+				"rever",
+				"reverse"
+			],
+			[
+				"n",
+				"next"
+			],
+			[
+				"mer",
+				"merge"
+			],
+			[
+				"at",
+				"aturn"
+			],
+			[
+				"swa",
+				"swap"
+			],
+			[
+				"end",
+				"end"
+			],
+			[
+				"en",
+				"endl"
+			],
+			[
+				"erro",
+				"I-system_error"
+			],
+			[
+				"begi",
+				"begin"
+			],
+			[
+				"beg",
+				"begin"
+			],
+			[
+				"eb",
+				"deb"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/ROHAN/OneDrive/Desktop/htmls/PythonProjects/Game/main.py",
+			"settings":
+			{
+				"buffer_size": 5948,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": "Star"
+					},
+					"BQAAAPQAAAAAAAAA9QAAAAAAAAAAAAAA9QAAAAAAAAD1AAAAAAAAAAsAAABGaXJzdCBHYW1lIfUAAAAAAAAA9gAAAAAAAAAAAAAA9gAAAAAAAAD3AAAAAAAAAAAAAAD3AAAAAAAAAPgAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD/AAAAAAAAAPQAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					17,
+					1,
+					"insert",
+					{
+						"characters": "Ship"
+					},
+					"BAAAAPgAAAAAAAAA+QAAAAAAAAAAAAAA+QAAAAAAAAD6AAAAAAAAAAAAAAD6AAAAAAAAAPsAAAAAAAAAAAAAAPsAAAAAAAAA/AAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD4AAAAAAAAAPgAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					19,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPgAAAAAAAAA+AAAAAAAAAABAAAAUw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD5AAAAAAAAAPkAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					20,
+					1,
+					"insert",
+					{
+						"characters": "s"
+					},
+					"AQAAAPgAAAAAAAAA+QAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD4AAAAAAAAAPgAAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Python Terminus.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Python Terminus.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/User/Python Terminus.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/c++17 Terminus.sublime-build",
+					""
+				],
+				[
+					"Packages/User/c++17 Terminus.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/c++17 Terminus.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"map",
+				"View: Toggle Minimap"
+			],
+			[
+				"lsp",
+				"Preferences: LSP-pyright Settings"
+			],
+			[
+				"refre",
+				"Project: Refresh Folders"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"enable",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"error",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"lsp ",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"shell",
+				"Terminus: List Shells"
+			],
+			[
+				"upda",
+				"Help: Check for Updates"
+			],
+			[
+				"sub",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"en",
+				"EnvSwitcher: Choose Environment"
+			],
+			[
+				"subl",
+				"SublimeLinter: Toggle Highlights"
+			],
+			[
+				"lsit",
+				"Terminus: List Shells"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				" settings",
+				"Preferences: Settings"
+			],
+			[
+				"anaconda",
+				"Anaconda: Vagrant Enable"
+			],
+			[
+				"anco setti",
+				"Anaconda: Set Python interpreter"
+			],
+			[
+				"anaco",
+				"Anaconda: Find object usage"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Build: New Build System"
+			],
+			[
+				"a",
+				"Arithmetic"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"anacond",
+				"Anaconda: Vagrant Enable"
+			],
+			[
+				"an",
+				"Anaconda: Next lint error"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			],
+			[
+				"instl",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"vpf",
+				"View Package File"
+			],
+			[
+				"the",
+				"UI: Select Theme"
+			],
+			[
+				"pre",
+				"Preferences: Settings"
+			],
+			[
+				"p",
+				"Preferences: Settings"
+			],
+			[
+				"pr",
+				"Preferences: Settings"
+			],
+			[
+				"col",
+				"UI: Customize Color Scheme"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"ma",
+				"FastOlympicCoding: Make Stress"
+			],
+			[
+				"m",
+				"FastOlympicCoding: Make Stress"
+			],
+			[
+				"stres",
+				"FastOlympicCoding: Make Stress"
+			],
+			[
+				"ints",
+				"Help: Indexing Status"
+			],
+			[
+				"mak",
+				"FastOlympicCoding: Make Stress"
+			],
+			[
+				"settin",
+				"FastOlympicCoding: Open Settings"
+			],
+			[
+				"setting",
+				"FastOlympicCoding: Open Settings"
+			],
+			[
+				"settings",
+				"FastOlympicCoding: Open Settings"
+			],
+			[
+				"linrwe",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"set syntax c",
+				"Set Syntax: C++"
+			],
+			[
+				"l",
+				"Set Syntax: Literate Haskell"
+			],
+			[
+				"liar",
+				"Set Syntax: Literate Haskell"
+			],
+			[
+				"debug",
+				"Package Control: Disable Debug Mode"
+			],
+			[
+				"ke",
+				"Package Control: Enable Debug Mode"
+			],
+			[
+				"fas",
+				"FastOlympicCoding: Open Settings"
+			],
+			[
+				"open ",
+				"FastOlympicCoding: Open Settings"
+			],
+			[
+				"r do",
+				"Set Syntax: Rd (R Documentation)"
+			],
+			[
+				"err",
+				"Set Syntax: Rd (R Documentation)"
+			],
+			[
+				"rena",
+				"Rename File"
+			],
+			[
+				"ren",
+				"Rename File"
+			],
+			[
+				"thme",
+				"Arithmetic"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"renm",
+				"Rename File"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"pref",
+				"Preferences: Settings"
+			],
+			[
+				"sett",
+				"Preferences: Settings"
+			],
+			[
+				"th",
+				"UI: Select Theme"
+			],
+			[
+				":",
+				":$ - EOF"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"ter",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"te",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"insl",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"term",
+				"Terminus: Close"
+			],
+			[
+				"termin",
+				"Terminality: Browse Commands..."
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"termni",
+				"Preferences: Terminal Key Bindings – Default"
+			],
+			[
+				"termn",
+				"TerminalProjectFolder: open terminal"
+			],
+			[
+				"t",
+				"Terminal: Open"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"termi",
+				"Terminus: Close"
+			],
+			[
+				"erro",
+				"Snippet: error"
+			],
+			[
+				"canel",
+				"Build: Cancel"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"form",
+				"Clang Format: Format Selection"
+			],
+			[
+				"for",
+				"Clang Format: Set Path"
+			],
+			[
+				"forme",
+				"Clang Format: Format Selection"
+			],
+			[
+				"forma",
+				"Clang Format: Format Selection"
+			],
+			[
+				"cla",
+				"Clang Format: Select Style"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ad",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"vie",
+				"View: Toggle Menu"
+			],
+			[
+				"adva",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"mat",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"red the",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				":tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"me",
+				"View: Toggle Menu"
+			],
+			[
+				"min",
+				"View: Toggle Minimap"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 160.800003052,
+		"history":
+		[
+			"sublime.cache_path()",
+			"3 % 2",
+			"21 % 2",
+			"67 % 6",
+			"2/7",
+			"9/7",
+			"1/7",
+			"8/ 7",
+			"1344 / 7",
+			"1346 - 2",
+			"1345 /7",
+			"1346 - 1",
+			"1400 - 1",
+			"1401 / 7",
+			"2 % 7",
+			"1 % 7",
+			"1353 % 7",
+			"1346 % 7 ",
+			"10**3",
+			"pwd",
+			" clear",
+			"256 - 9",
+			"2/5",
+			"18 *4",
+			"clear()",
+			"clear",
+			"8^16",
+			"9 + 11 + 13 + 6",
+			"9 + 11 + 13 + 8",
+			"9 + 11 + 13 + 9",
+			"9 + 11 + 13 + 15",
+			"0%1",
+			"1e6 * 2",
+			"1e6 ",
+			"bin(19)",
+			"bin(25)",
+			"bin(7)",
+			"bin(13)",
+			"bin(12)",
+			"16&19",
+			"5 -2 +10 -9 +4",
+			"5*6+3*4",
+			"5*6",
+			"5*6+3*4",
+			"4 * 6 + 2 *3",
+			"4 * 9 + 2 *3",
+			"math.factorial(60)",
+			"import math",
+			"math.factorial(60)",
+			"clear",
+			"sys",
+			"a = input()",
+			"print(\"Hello\")",
+			"160 * 15",
+			"not good ",
+			"10**100",
+			"9**100",
+			"2**3",
+			"6/3",
+			"5/3",
+			"pwd",
+			"clear",
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 50284))",
+			"socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\",64184))",
+			"import socket;",
+			"4*3*2",
+			"4!",
+			"2**60 ",
+			"2**50",
+			"18 * 18",
+			"5 % 3",
+			"5/3",
+			"5%2",
+			"5%1",
+			"90 - 65",
+			"3 + 1 + 8 + 3",
+			"99824435* 3",
+			"99824435 3",
+			"1!",
+			"24-3*2",
+			"4*3*2",
+			"3!",
+			"22 - 16",
+			"9 + 7",
+			"15 - 7",
+			"7 + 7 + 6 + 6 + 7",
+			"7 + 7 + 6 + 6 + &",
+			"9 + 7 + 7",
+			"136/2",
+			"10 * 11 /2",
+			"250/15",
+			"2000/300",
+			"6 * 20",
+			"240 - 120",
+			"220 + 140",
+			"7 * 20",
+			"6 * 20 ",
+			"16 * 6",
+			"20 * 6",
+			"17 * 6",
+			"100 / 6",
+			"6 * 20",
+			"16 * 6",
+			"20 * 7",
+			"2 * 7",
+			"20 * 6",
+			"16 * 6",
+			"20 * 7 ",
+			"20 / 7",
+			"93 % 9",
+			"993 % 9",
+			"33333 % 9",
+			" 33333 % 9",
+			"3333 % 9",
+			"333 % 9",
+			"33 % 9",
+			"19 % 3",
+			"9 % 3",
+			"12349 % 3",
+			"12349 % 9",
+			"4 * 6",
+			"6 * 4 + 6 + 9",
+			"564 - 544",
+			"564 - 528",
+			"519 - 487",
+			"7 * 2",
+			"15 / 2",
+			"101/2"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/ROHAN/OneDrive/Desktop/htmls/PythonProjects",
+		"/C/Users/ROHAN/OneDrive/Desktop/htmls/PythonProjects/Game"
+	],
+	"file_history":
+	[
+		"/C/Users/ROHAN/OneDrive/Desktop/htmls/PythonProjects/Json in python/jsonpy.py",
+		"/C/Users/ROHAN/OneDrive/Desktop/htmls/PythonProjects/temp/jsonpy.py",
+		"/C/Users/ROHAN/OneDrive/Desktop/htmls/PythonProjects/Game/main.py",
+		"/C/Users/ROHAN/OneDrive/Desktop/htmls/PythonProjects/Game/README.md",
+		"/C/Users/ROHAN/OneDrive/Desktop/htmls/PythonProjects/Game/.gitignore",
+		"/C/Users/ROHAN/OneDrive/Desktop/htmls/PythonProjects/Game/colors.py",
+		"/C/Users/ROHAN/OneDrive/Desktop/htmls/PythonProjects/Game/movements.py",
+		"/C/Users/ROHAN/OneDrive/Desktop/htmls/PythonProjects/Game/gitignore",
+		"/C/Users/ROHAN/OneDrive/Desktop/htmls/PythonProjects/temp/data.json",
+		"/C/Users/ROHAN/OneDrive/Desktop/htmls/PythonProjects/WebScrapper/Jobs.py",
+		"/C/Users/ROHAN/OneDrive/Desktop/htmls/PythonProjects/WebScrapper/sel_1.py",
+		"/C/Users/ROHAN/OneDrive/Desktop/htmls/PythonProjects/Data Science/check5",
+		"/C/Users/ROHAN/OneDrive/Desktop/htmls/PythonProjects/Data Science/App.py",
+		"/C/Users/ROHAN/OneDrive/Desktop/htmls/PythonProjects/Data Science/check3",
+		"/C/Users/ROHAN/OneDrive/Desktop/htmls/PythonProjects/Data Science/check4",
+		"/C/Users/ROHAN/OneDrive/Desktop/htmls/PythonProjects/Data Science/check2",
+		"/C/Users/ROHAN/OneDrive/Desktop/htmls/PythonProjects/Data Science/random.py",
+		"/C/Users/ROHAN/OneDrive/Desktop/htmls/PythonProjects/Data Science/check6",
+		"/C/Users/ROHAN/OneDrive/Desktop/htmls/PythonProjects/startCoding.py",
+		"/C/Users/ROHAN/OneDrive/Desktop/htmls/PythonProjects/WebScrapper/OOPs.py",
+		"/C/Users/ROHAN/OneDrive/Desktop/htmls/PythonProjects/WebScrapper/Main.py",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/CPP17_CLANG.sublime-build",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/Python Terminus.sublime-build",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/temp-python.sublime-build",
+		"/C/Users/ROHAN/OneDrive/Desktop/htmls/PythonProjects/Game/Movement.py",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/Jedi - Python autocompletion/sublime_jedi.sublime-settings",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/sublime_jedi.sublime-settings",
+		"/C/Users/ROHAN/OneDrive/Desktop/htmls/PythonProjects/WebScrapper/Game/Main.py",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/CPP17_second.sublime-build",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/CppFastOlympicCoding/Default.sublime-commands",
+		"/D/subcode/dp/outputf.in",
+		"/D/subcode/dp/B__Good.cpp",
+		"/D/subcode/dp/CF.py",
+		"/D/subcode/dp/A.cpp",
+		"/C/Users/ROHAN/OneDrive/Documents/Port_Scanner.cpp",
+		"/D/subcode/dp/temp.cpp",
+		"/D/subcode/dp/equalsumpartition.cpp",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/Preferences.sublime-settings",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/testcase.sublime-snippet",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/error.sublime-snippet",
+		"/D/subcode/dp/try.c",
+		"/D/subcode/dp/error.txt",
+		"/D/subcode/dp/inputf.in",
+		"/D/subcode/dp/B.cpp",
+		"/D/subcode/dp/graphs.cpp",
+		"/D/subcode/frog1.cpp",
+		"/D/subcode/dp/LCS&LCSS.cpp",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/c++17.sublime-build",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/C++/C.sublime-syntax",
+		"/D/Atomcode/test.py",
+		"/D/subcode/dp/visual.c",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/Python/Python.sublime-build",
+		"/D/subcode/dp/Counting_Towers.cpp",
+		"/D/subcode/dp/Array_Description.cpp",
+		"/D/subcode/dp/CollectingNumbers-II.cpp",
+		"/D/subcode/dp/primes.exe.stackdump",
+		"/D/subcode/dp/targetsum.cpp",
+		"/D/subcode/dp/Nested_Range_Count.cpp",
+		"/C/Users/ROHAN/OneDrive/Desktop/htmls/projects/boring-news/src/components/News.js",
+		"/D/subcode/dp/N_QueenProblem.cpp",
+		"/D/subcode/dp/B__Generator.cpp",
+		"/D/Leetcoding/NextGreaterElement.cpp",
+		"/D/subcode/dp/X.cpp",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/Generator.sublime-snippet",
+		"/C/Users/ROHAN/wsl programs/B_Array_Reodering.cpp",
+		"/D/Atomcode/gean.cpp",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/SublimeAStyleFormatter.sublime-settings",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/SublimeAStyleFormatter/SublimeAStyleFormatter.sublime-settings",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/CPP17_MYSYS.sublime-build",
+		"/D/subcode/dp/X.exe.stackdump",
+		"/D/subcode/dp/primes.cpp",
+		"/D/subcode/dp/SegmentedSieve.cpp",
+		"/D/Atomcode/PythonProjects/RockPaperScissors.py",
+		"/D/subcode/Maths(CP)/error.txt",
+		"/D/subcode/Maths(CP)/inputf.in",
+		"/D/subcode/Maths(CP)/outputf.out",
+		"/D/subcode/Maths(CP)/check.cpp",
+		"/D/subcode/Maths(CP)/hello.cpp",
+		"/D/subcode/dp/try.cpp",
+		"/D/subcode/Sublime_Workspaces/error.txt",
+		"/D/subcode/Sublime_Workspaces/graphs.cpp",
+		"/D/subcode/Sublime_Workspaces/A.cpp",
+		"/D/subcode/Sublime_Workspaces/111.cpp",
+		"/D/subcode/Sublime_Workspaces/X.cpp",
+		"/D/subcode/Sublime_Workspaces/B.cpp",
+		"/D/subcode/Sublime_Workspaces/inputf.in",
+		"/D/subcode/Sublime_Workspaces/outputf.in",
+		"/D/subcode/dp/QuickSort.cpp",
+		"/D/subcode/dp/linkedlist.cpp",
+		"/D/subcode/dp/myjava.java",
+		"/D/subcode/dp/NEW.java",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/javasnippet.sublime-snippet",
+		"/D/subcode/dp/subset_sum.cpp",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/Terminus/Terminus.sublime-settings",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/Terminal/Terminal.sublime-settings",
+		"/D/subcode/dp/countsubsetsum.cpp",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/Terminal/Default (Windows).sublime-keymap",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/Terminus.sublime-settings",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/jjava.sublime-build",
+		"/D/subcode/dp/myfirst.java",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/RunJava.sublime-build",
+		"/D/subcode/dp/kjlights.cpp",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/debug.sublime-snippet",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/clang_format.sublime-settings",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/Material Theme/Preferences.sublime-settings",
+		"/D/subcode/inputf.in",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/OneDark.sublime-color-scheme",
+		"/D/subcode/a.exe",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/One Dark Material - Theme/schemes/OneDark.tmTheme",
+		"/C/Users/ROHAN/OneDrive/Documents/pythoncode/hello.py",
+		"/D/subcode/dp/01knapsack.cpp",
+		"/D/subcode/try.cpp",
+		"/D/subcode/outputf.in"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 118.4,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"border",
+			"self.velocity",
+			"yellow",
+			"red",
+			"VEL",
+			"yellow_handle_movement",
+			"BLACK",
+			"WHITE"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"self.border",
+			"velocity",
+			"player1",
+			"player2",
+			"self.velocity",
+			"Color.black",
+			"Color.white"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"lsp_uri": "buffer://sublime/42",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/ROHAN/OneDrive/Desktop/htmls/PythonProjects/Game/main.py",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5948,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								263,
+								263
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ".",
+									"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+									"server": "LSP-pylsp"
+								}
+							],
+							"lsp_active": true,
+							"lsp_hover_provider_count": 1,
+							"lsp_uri": "file:///C:/Users/ROHAN/OneDrive/Desktop/htmls/PythonProjects/Game/main.py",
+							"show_definitions": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 83.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.SublimeLinter":
+	{
+		"height": 150.399993896
+	},
+	"output.Terminus":
+	{
+		"height": 324.0
+	},
+	"output.Terminus 2":
+	{
+		"height": 168.0
+	},
+	"output.Terminus 3":
+	{
+		"height": 150.399993896
+	},
+	"output.Terminus 4":
+	{
+		"height": 150.399993896
+	},
+	"output.Terminus 5":
+	{
+		"height": 150.399993896
+	},
+	"output.Terminus Build Results":
+	{
+		"height": 122.0
+	},
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
+	"output.autopep8":
+	{
+		"height": 0.0
+	},
+	"output.diagnostics":
+	{
+		"height": 150.399993896
+	},
+	"output.exec":
+	{
+		"height": 555.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.language servers":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Python Terminus.sublime-build",
+	"project": "Python_Projects.sublime-project",
+	"replace":
+	{
+		"height": 60.8
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ou",
+				"dp\\outputf.in"
+			],
+			[
+				"b",
+				"dp\\B__Generator.cpp"
+			],
+			[
+				"py",
+				"dp\\CF.py"
+			],
+			[
+				"cp",
+				"dp\\CF.py"
+			],
+			[
+				"",
+				"dp\\A.cpp"
+			],
+			[
+				".c",
+				"dp\\try.c"
+			],
+			[
+				"err",
+				"dp\\error.txt"
+			],
+			[
+				"in",
+				"dp\\inputf.in"
+			],
+			[
+				"out",
+				"dp\\outputf.in"
+			],
+			[
+				"goo",
+				"dp\\B__Good.cpp"
+			],
+			[
+				"c",
+				"dp\\CF.py"
+			],
+			[
+				"b.cpp",
+				"dp\\B.cpp"
+			],
+			[
+				"L",
+				"dp\\LCS&LCSS.cpp"
+			],
+			[
+				"temp",
+				"dp\\temp.cpp"
+			],
+			[
+				"pe",
+				"dp\\primes.exe.stackdump"
+			],
+			[
+				"ta",
+				"dp\\targetsum.cpp"
+			],
+			[
+				"er",
+				"dp\\error.txt"
+			],
+			[
+				"te",
+				"dp\\temp.cpp"
+			],
+			[
+				"tme",
+				"dp\\temp.cpp"
+			],
+			[
+				"gen",
+				"dp\\B__Generator.cpp"
+			],
+			[
+				"b__",
+				"dp\\B__Generator.cpp"
+			],
+			[
+				"put",
+				"outputf.in"
+			],
+			[
+				"o",
+				"outputf.in"
+			],
+			[
+				"e",
+				"error.txt"
+			],
+			[
+				"m",
+				"myjava.java"
+			],
+			[
+				"N",
+				"NEW.java"
+			],
+			[
+				"tem",
+				"temp.cpp"
+			],
+			[
+				"tr",
+				"try.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 534.4,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\subcode\\Sublime_Workspaces\\CPsetup.sublime-workspace"
+			]
+		],
+		"width": 448.8
+	},
+	"select_symbol":
+	{
+		"height": 59.2,
+		"last_filter": "sieve",
+		"selected_items":
+		[
+			[
+				"sieve",
+				"CreateSieve"
+			],
+			[
+				"",
+				"countsubsetdp"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 243.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

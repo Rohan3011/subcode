@@ -1,0 +1,59 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+typedef long long ll;
+typedef vector<int> vi;
+typedef set<int> si;
+typedef pair<int,int> pi;
+typedef pair<int,string> pis;
+typedef vector<pair<int,string>> vpis;
+typedef vector<pair<int,int>>  vpi;
+
+#define fo(i,n) for (int i = 0; i < n; i++)
+#define pb push_back
+#define ppb pop_back
+#define F first
+#define S second
+#define deb(x) cout<< #x << "="<< x<<endl
+#define deb2(x,y) cout<< #x << "="<< x<<","<< #y << "="<< y<<endl
+#define INF 0x3f3f3f3f
+#define endl "\n"
+
+
+
+void solve(){
+ int i,j,sum=0,ans=0,cnt=0;
+ int n;
+ cin>>n;
+ vi arr(n+1,0);
+ 
+
+ for(i=2;i<=n;i++){
+ 	if(arr[i])continue;
+	 	for(int u=2*i;u<=n;u+=i){
+	 		arr[u]=i;
+	 	}
+	  
+ }
+ for( int i=2;i<=n;i++){
+ 	cout<<arr[i]<<" ";
+ }
+}
+
+
+
+
+int main()
+{
+    ios::sync_with_stdio(0);cin.tie(0);
+
+    string s;
+    int t;
+    cin>>t;
+    while(t--){
+
+     solve();
+    }
+   
+    return 0;
+}

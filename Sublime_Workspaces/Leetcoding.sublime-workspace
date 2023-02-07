@@ -1,0 +1,1330 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"board"
+			],
+			[
+				"n",
+				"nQueenSolver"
+			],
+			[
+				"print",
+				"printBoard"
+			],
+			[
+				"bo",
+				"board"
+			],
+			[
+				"vi",
+				"vi"
+			],
+			[
+				"pu",
+				"push_back"
+			],
+			[
+				"i",
+				"Inc"
+			],
+			[
+				"Li",
+				"LinkedList"
+			],
+			[
+				"l",
+				"list1"
+			],
+			[
+				"in",
+				"inc"
+			],
+			[
+				"L",
+				"LinkedList"
+			],
+			[
+				"ma",
+				"main"
+			],
+			[
+				"r",
+				"reverseList"
+			],
+			[
+				"d",
+				"deleteNode"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"const",
+				"constructList"
+			],
+			[
+				"inc",
+				"Inc"
+			],
+			[
+				"Inc",
+				"Inc"
+			],
+			[
+				"p",
+				"pop"
+			],
+			[
+				"is",
+				"isStable"
+			],
+			[
+				"st",
+				"stable_string"
+			],
+			[
+				"MS",
+				"MSB"
+			],
+			[
+				"isP",
+				"isPowerOfTwo"
+			],
+			[
+				"us",
+				"using"
+			],
+			[
+				"ios",
+				"ios_base"
+			],
+			[
+				"usin",
+				"using"
+			],
+			[
+				"pop",
+				"pop_back"
+			],
+			[
+				"pop_",
+				"pop_front"
+			],
+			[
+				"vect",
+				"vector"
+			],
+			[
+				"vec",
+				"vector"
+			],
+			[
+				"prin",
+				"printf"
+			],
+			[
+				"pus",
+				"push_back"
+			],
+			[
+				"prim",
+				"primeFactor"
+			],
+			[
+				"si",
+				"sizeof"
+			],
+			[
+				"pr",
+				"prefix"
+			],
+			[
+				"v",
+				"vector"
+			],
+			[
+				"pref",
+				"prefixSumArr"
+			],
+			[
+				"s",
+				"streets"
+			],
+			[
+				"pri",
+				"printf"
+			],
+			[
+				"di",
+				"digit"
+			],
+			[
+				"sy",
+				"sync_with_stdio"
+			],
+			[
+				"iso",
+				"ios_base"
+			],
+			[
+				"pre",
+				"prevDamage"
+			],
+			[
+				"fre",
+				"freq"
+			],
+			[
+				"Min",
+				"MinPower"
+			],
+			[
+				"po",
+				"powerup"
+			],
+			[
+				"t",
+				"total"
+			],
+			[
+				"flo",
+				"float"
+			],
+			[
+				"Fi",
+				"FirstFive"
+			],
+			[
+				"sor",
+				"sort"
+			],
+			[
+				"be",
+				"beginend"
+			],
+			[
+				"so",
+				"sort"
+			],
+			[
+				"fo",
+				"found_x"
+			],
+			[
+				"un",
+				"unsigned"
+			],
+			[
+				"Pre",
+				"PrefixSum"
+			],
+			[
+				"f",
+				"FirstMultiple"
+			],
+			[
+				"tem",
+				"temp1"
+			],
+			[
+				"ne",
+				"nextone"
+			],
+			[
+				"nex",
+				"nextone"
+			],
+			[
+				"prit",
+				"printf"
+			],
+			[
+				"de",
+				"define"
+			],
+			[
+				"em",
+				"empty"
+			],
+			[
+				"val",
+				"validDigits"
+			],
+			[
+				"er",
+				"erase"
+			],
+			[
+				"ba",
+				"back"
+			],
+			[
+				"emp",
+				"empty"
+			],
+			[
+				"ins",
+				"insert"
+			],
+			[
+				"swap",
+				"swap"
+			],
+			[
+				"setp",
+				"setprecision"
+			],
+			[
+				"wr",
+				"wr_left"
+			],
+			[
+				"h",
+				"hr_down"
+			],
+			[
+				"w",
+				"wr_left"
+			],
+			[
+				"hr",
+				"hr_up"
+			],
+			[
+				"max",
+				"maxindex"
+			],
+			[
+				"do",
+				"double"
+			],
+			[
+				"cn",
+				"cnt_even"
+			],
+			[
+				"su",
+				"sum1"
+			],
+			[
+				"sw",
+				"swap"
+			],
+			[
+				"rever",
+				"reverse"
+			],
+			[
+				"mer",
+				"merge"
+			],
+			[
+				"at",
+				"aturn"
+			],
+			[
+				"swa",
+				"swap"
+			],
+			[
+				"end",
+				"end"
+			],
+			[
+				"en",
+				"endl"
+			],
+			[
+				"erro",
+				"I-system_error"
+			],
+			[
+				"begi",
+				"begin"
+			],
+			[
+				"beg",
+				"begin"
+			],
+			[
+				"eb",
+				"deb"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "#include<bits/stdc++.h>\nusing namespace std;\n\nconst int N = 1e5 ;\nvector<int> adj[N + 1];\nvector<bool> visited(N + 1 , false);\nvector<int> rootDistance (N + 1);\n\nvoid bfs(int s) {\n\tqueue<int> q ;\n\tq.push(s);\n\twhile (!q.empty()) {\n\t\tint vertex = q.front();\n\t\tq.pop();\n\t\tfor (auto &u : adj[vertex]) {\n\t\t\tif (!visited[u]) {\n\t\t\t\tq.push(u);\n\t\t\t\trootDistance[u] = rootDistance[vertex] + 1 ;\n\t\t\t}\n\t\t}\n\t\tvisited[vertex] = true ;\n\t}\n}\n\n\nint main()\n{\n\t//ios::sync_with_stdio(0);cin.tie(0);\n\tint nodes , edges ;\n\tcin >> nodes >> edges ;\n\tfor (int i = 0 ; i < edges ; i++) {\n\t\tint a , b ;\n\t\tcin >> a >> b ;\n\t\tadj[a].push_back(b);\n\t\tadj[b].push_back(a);\n\t}\n\tint cnt = 0 ;\n\tfor (int i = 1 ; i <= nodes ; i++) {\n\t\tif (visited[i])continue ;\n\t\tcnt++;\n\t\tbfs(i);\n\t}\n\tcout << \"connected components : \" <<  cnt << \"\\n\";\n\tcout << \"distance from root :\\n\";\n\tfor (int i = 1; i <= nodes ; i++) {\n\t\tcout << rootDistance[i] << \" \";\n\t}\n\tcout << \"\\n\";\n}",
+			"file": "/D/Leetcoding/Graph/graph.cpp",
+			"file_size": 972,
+			"file_write_time": 132832872609481043,
+			"redo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "p"
+					},
+					"AQAAALYBAAAAAAAAtgEAAAAAAAABAAAAcA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAC3AQAAAAAAALcBAAAAAAAAAAAAAAAA8L8"
+				]
+			],
+			"settings":
+			{
+				"buffer_size": 924,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "p"
+					},
+					"AQAAAN8BAAAAAAAA4AEAAAAAAAAAAAAA",
+					"CAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADfAQAAAAAAAN8BAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					4,
+					1,
+					"left_delete",
+					null,
+					"AQAAAN8BAAAAAAAA3wEAAAAAAAABAAAAcA",
+					"CAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADgAQAAAAAAAOABAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"the",
+				"UI: Select Theme"
+			],
+			[
+				"to",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"lsp en",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"side",
+				"Side Bar: Refresh"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings"
+			],
+			[
+				"setti",
+				"Preferences: Settings"
+			],
+			[
+				"lsi",
+				"Package Control: List Packages"
+			],
+			[
+				"emove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"rever",
+				"File: Revert"
+			],
+			[
+				"show",
+				"Anaconda: Show error list"
+			],
+			[
+				"error",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"pre",
+				"Preferences: Settings"
+			],
+			[
+				"pr",
+				"Preferences: Settings"
+			],
+			[
+				"new",
+				"Build: New Build System"
+			],
+			[
+				"inst",
+				"Terminus: List Shells"
+			],
+			[
+				"settin",
+				"FastOlympicCoding: Open Settings"
+			],
+			[
+				"fast",
+				"FastOlympicCoding: Open Settings"
+			],
+			[
+				"fast settin",
+				"FastOlympicCoding: Open Settings"
+			],
+			[
+				"fas",
+				"FastOlympicCoding: Auto"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"term",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"ter",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"run",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"colo",
+				"UI: Customize Color Scheme"
+			],
+			[
+				"cust",
+				"UI: Customize Color Scheme"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"p",
+				"Preferences: Settings"
+			],
+			[
+				"sett",
+				"Preferences: Settings"
+			],
+			[
+				"terminus ke",
+				"Preferences: Terminus Key Bindings"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"git",
+				"Git: New Tag"
+			],
+			[
+				"rena",
+				"Rename File"
+			],
+			[
+				"ren",
+				"Rename File"
+			],
+			[
+				"r do",
+				"Set Syntax: Rd (R Documentation)"
+			],
+			[
+				"err",
+				"Set Syntax: Rd (R Documentation)"
+			],
+			[
+				"col",
+				"UI: Select Color Scheme"
+			],
+			[
+				"thme",
+				"Arithmetic"
+			],
+			[
+				"renm",
+				"Rename File"
+			],
+			[
+				"pref",
+				"Preferences: Settings"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"th",
+				"UI: Select Theme"
+			],
+			[
+				":",
+				":$ - EOF"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"te",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"insl",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"a",
+				"Arithmetic"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"termin",
+				"Terminality: Browse Commands..."
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"termni",
+				"Preferences: Terminal Key Bindings – Default"
+			],
+			[
+				"termn",
+				"TerminalProjectFolder: open terminal"
+			],
+			[
+				"t",
+				"Terminal: Open"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"termi",
+				"Terminus: Close"
+			],
+			[
+				"open ",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"erro",
+				"Snippet: error"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"canel",
+				"Build: Cancel"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"form",
+				"Clang Format: Format Selection"
+			],
+			[
+				"for",
+				"Clang Format: Set Path"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"forme",
+				"Clang Format: Format Selection"
+			],
+			[
+				"forma",
+				"Clang Format: Format Selection"
+			],
+			[
+				"cla",
+				"Clang Format: Select Style"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ad",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"ma",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"vie",
+				"View: Toggle Menu"
+			],
+			[
+				"adva",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"mat",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"red the",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				":tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"",
+				"Build: New Build System"
+			],
+			[
+				"me",
+				"View: Toggle Menu"
+			],
+			[
+				"min",
+				"View: Toggle Minimap"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 160.800003052,
+		"history":
+		[
+			"111%3",
+			"-4 % 2",
+			"-2 % 2",
+			"1%1",
+			"19 * 2",
+			"25 ^ 32",
+			"25 ^ 24",
+			"pow(2 , 5)",
+			"63^39",
+			"pow(2,6)",
+			"bin(6)",
+			"bin(2 , 6)",
+			"25 ^ 31",
+			"7 ^ 7",
+			"24 ^ 31",
+			"pow(2 , 5)",
+			"39 ^ 63",
+			"pow(2 , 6)",
+			"8 ^ (15)",
+			"pow(2 , 4)",
+			"8 ^ (17)",
+			"pow(2 , 4)",
+			"bin(7)",
+			"8^15",
+			"8 + 4 + 2 + 1",
+			"bin(17)",
+			"8^17",
+			"bin(31)",
+			"bin(7)",
+			"8^7",
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 55531))\n",
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 55531))",
+			"math.log(1 , 2)",
+			"import math",
+			"math.log(8,2)",
+			"math.log(9,2)",
+			"import math",
+			"101/4",
+			"100/2",
+			"101/4",
+			"100000 * 100000",
+			"7 - 2",
+			"30/4",
+			"11 + 13",
+			"clear",
+			"15+8+11",
+			"34 -16",
+			"34 -18",
+			"34 - 15",
+			"34 - 16",
+			"34-13",
+			"34 -13",
+			"50 / 26",
+			"50%26",
+			"19 *2",
+			"57/3",
+			"25%13",
+			"26%13",
+			" 26 % 13",
+			"97%49",
+			"999999999/2",
+			"9%6",
+			"9%5",
+			" 9 % 5",
+			"10 % 9",
+			"10 % 5",
+			"26 % 13",
+			"10/2",
+			"26 / 2 - 1",
+			"25 %11",
+			"26%11",
+			"25%12",
+			"25%13",
+			" 25 % 13",
+			"25 % 14",
+			"8%7",
+			"2%7",
+			"1000000000/2 -1",
+			" 1000000000/2 -1",
+			"999999999/2",
+			"26 / 2",
+			"8 /2 ",
+			"999999999/2",
+			"1000000000/2",
+			"26/2",
+			"999999999/2",
+			"208 / 2",
+			"8 * 26",
+			"27 % 13",
+			"27 % 8",
+			"26 % 11",
+			"26 % 7",
+			"26 % 8",
+			"26 % 7",
+			"gcd(8 , 12)",
+			"23 - 1 + 1",
+			"24 - 5 + 1",
+			"25 - 5",
+			"25 - 6",
+			"12 + 13",
+			"24 -13",
+			"202 / 20101",
+			"100 / 20100 * 100",
+			"1 / 20100",
+			"1 / 100",
+			"100 / 20100 * 100",
+			"1/ 100",
+			"100 / 20100",
+			"100 / 201",
+			"1 / 20100",
+			"50/20100",
+			"1 / 20100",
+			"clear",
+			"16 - 12",
+			"13 / 10",
+			"33 / 10",
+			"16 * 18 * 18",
+			"16 * 18",
+			"8*18",
+			"16 / 2",
+			"3 / 2 ",
+			"8 *18",
+			"(3 + 4 + 5 )/ 3",
+			"(5 + 3 + 4 )/ 3",
+			"5 + 3 + 4 / 3",
+			"3 + 4  + 5 / 3",
+			"7 + 1 + 4 + 10",
+			"4 + 4 + 1 + 13"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Leetcoding/Backtracking/N-Queen.cpp",
+		"/D/Leetcoding/Trees/dfs.cpp",
+		"/D/Leetcoding/Arrays/Sorting.cpp",
+		"/D/Leetcoding/BitManipulation/Determining_numbers.cpp",
+		"/D/Leetcoding/Graph/graph.cpp",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/Side Bar.sublime-settings",
+		"/D/Leetcoding/B_Fence.cpp",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/D/Leetcoding/B_NastyaAndDoor.exe.stackdump",
+		"/D/Leetcoding/Graph/graph.h",
+		"/D/Leetcoding/LinkedList/MergeSortLinkedList.cpp",
+		"/D/Leetcoding/LinkedList/HareAndTortoise.cpp",
+		"/D/Leetcoding/LinkedList/LinkedList.cpp",
+		"/D/Leetcoding/StacksAndQueues/MonkAndPowerOfTime.cpp",
+		"/D/Leetcoding/StacksAndQueues/ANARC09A.cpp",
+		"/D/Leetcoding/StacksAndQueues/THESAV.cpp",
+		"/D/Leetcoding/StacksAndQueues/BalancedBrackets.cpp",
+		"/D/Leetcoding/BitManipulation/A_YouAreGivenTwoBinaryStrings.cpp",
+		"/D/Leetcoding/BitManipulation/C_PowersOfTwo.py",
+		"/D/Leetcoding/BitManipulation/C_PowersOfTwo.cpp",
+		"/D/Leetcoding/BitManipulation/B_NekoPerformCatFurrierTransform.cpp",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/AutoPep8.sublime-settings",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/AutoPEP8/AutoPep8.sublime-settings",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/SublimeAStyleFormatter/SublimeAStyleFormatter.sublime-settings",
+		"/D/Leetcoding/PrefixSum/Determining_numbers.cpp",
+		"/D/Leetcoding/PrefixSum/DigitPrimes.cpp",
+		"/D/Leetcoding/N_QueenProblem.cpp",
+		"/D/Leetcoding/Subsets-2.cpp",
+		"/D/Leetcoding/Sieve/C_ReducingFractions.cpp",
+		"/C/Users/ROHAN/OneDrive/Desktop/htmls/index.js",
+		"/D/Leetcoding/temp.cpp",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/cpp17_wsl.sublime-build",
+		"/D/Leetcoding/Sieve/D_SoldierAndNumberGame.cpp",
+		"/D/Leetcoding/outputf.in",
+		"/D/Leetcoding/inputf.in",
+		"/D/Leetcoding/Sieve/Ashu_and_Prime_Factors.cpp",
+		"/D/Leetcoding/Sieve/closest_prime.cpp",
+		"/D/Leetcoding/Sieve/TDPRIMES.cpp",
+		"/D/Leetcoding/Sieve/PRIME1.cpp",
+		"/D/Leetcoding/SUMPOWER.cpp",
+		"/D/Leetcoding/SHIVIGOD.cpp",
+		"/D/Leetcoding/BDGFT.cpp",
+		"/D/Leetcoding/ECAPR206.cpp",
+		"/D/Leetcoding/B_NastyaAndDoor.cpp",
+		"/D/Atomcode/gean.cpp",
+		"/D/Leetcoding/MinMax_Riddle.cpp",
+		"/D/Leetcoding/PrefixSum/stock_span_problem.cpp",
+		"/D/Leetcoding/PrefixSum/COWA19B.cpp",
+		"/D/Leetcoding/PrefixSum/COW3E.cpp",
+		"/D/Leetcoding/PrefixSum/BLONDIE.cpp",
+		"/D/Leetcoding/PrefixSum/KJandStreetLights.cpp",
+		"/D/Leetcoding/PrefixSum/CSUMQ.cpp",
+		"/D/Leetcoding/C_SagheerAndNubianMarket.cpp",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/RemovePopup.py",
+		"/D/Leetcoding/DSTROY.cpp",
+		"/D/Leetcoding/.gitignore",
+		"/D/Leetcoding/C_ValhallaSiege.cpp",
+		"/D/Leetcoding/AGGRCOW.cpp",
+		"/D/Leetcoding/BishuAndSoldiers.cpp",
+		"/D/Leetcoding/ReverseString_Stack.cpp",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Merge/Packages/User/Preferences.sublime-settings",
+		"/D/Leetcoding/hello.cpp",
+		"/D/Leetcoding/gitignore",
+		"/D/subcode/Sublime_Workspaces/Leetcoding.sublime-project",
+		"/D/IntPrep/temp.cpp",
+		"/D/subcode/dp/A.cpp",
+		"/D/subcode/dp/equalsumpartition.cpp",
+		"/D/subcode/dp/error.txt",
+		"/D/subcode/dp/outputf.in",
+		"/D/subcode/dp/X.exe.stackdump",
+		"/D/subcode/dp/X.cpp",
+		"/D/subcode/dp/primes.cpp",
+		"/D/subcode/dp/SegmentedSieve.cpp",
+		"/D/Atomcode/PythonProjects/RockPaperScissors.py",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/CPP17_second.sublime-build",
+		"/D/subcode/Maths(CP)/error.txt",
+		"/D/subcode/Maths(CP)/inputf.in",
+		"/D/subcode/Maths(CP)/outputf.out",
+		"/D/subcode/Maths(CP)/check.cpp",
+		"/D/subcode/dp/inputf.in",
+		"/D/subcode/Maths(CP)/hello.cpp",
+		"/D/subcode/dp/B.cpp",
+		"/D/subcode/dp/temp.cpp",
+		"/D/subcode/dp/try.cpp",
+		"/D/subcode/dp/LCS&LCSS.cpp",
+		"/D/subcode/Sublime_Workspaces/error.txt",
+		"/D/subcode/Sublime_Workspaces/graphs.cpp",
+		"/D/subcode/Sublime_Workspaces/A.cpp",
+		"/D/subcode/Sublime_Workspaces/111.cpp",
+		"/D/subcode/Sublime_Workspaces/X.cpp",
+		"/D/subcode/Sublime_Workspaces/B.cpp",
+		"/D/subcode/Sublime_Workspaces/inputf.in",
+		"/D/subcode/Sublime_Workspaces/outputf.in",
+		"/D/subcode/dp/QuickSort.cpp",
+		"/D/subcode/dp/linkedlist.cpp",
+		"/D/subcode/dp/myjava.java",
+		"/D/subcode/dp/NEW.java",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/javasnippet.sublime-snippet",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/testcase.sublime-snippet",
+		"/D/subcode/dp/subset_sum.cpp",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/Terminus/Terminus.sublime-settings",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/Terminal/Terminal.sublime-settings",
+		"/D/subcode/dp/countsubsetsum.cpp",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/Terminal/Default (Windows).sublime-keymap",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/Terminus.sublime-settings",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/jjava.sublime-build",
+		"/D/subcode/dp/myfirst.java",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/RunJava.sublime-build",
+		"/D/subcode/dp/kjlights.cpp",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/error.sublime-snippet",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/debug.sublime-snippet",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/clang_format.sublime-settings",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/Material Theme/Preferences.sublime-settings",
+		"/D/subcode/inputf.in",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/OneDark.sublime-color-scheme",
+		"/D/subcode/a.exe",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/One Dark Material - Theme/schemes/OneDark.tmTheme",
+		"/D/subcode/dp/targetsum.cpp",
+		"/C/Users/ROHAN/OneDrive/Documents/pythoncode/hello.py",
+		"/D/subcode/dp/01knapsack.cpp",
+		"/D/subcode/try.cpp",
+		"/D/subcode/outputf.in"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 117.599998474,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"node",
+			"isPrime",
+			"pd",
+			"pf",
+			"pd",
+			"}",
+			"vi",
+			"preffix",
+			"prefix",
+			"int",
+			"incP",
+			"prevDamage",
+			"preffix"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Node",
+			"prime",
+			"lpf",
+			"cpf",
+			"lpf",
+			"largestPrimeFactor",
+			"vector<int>",
+			"prefix",
+			"peek",
+			"ll",
+			"p",
+			"damage",
+			"prefix"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/Leetcoding/Graph/graph.cpp",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 924,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								207,
+								207
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ".<>:\"/",
+									"selector": "punctuation.accessor | (meta.preprocessor.include string - punctuation.definition.string.end)",
+									"server": "clangd"
+								}
+							],
+							"lsp_active": true,
+							"lsp_hover_provider_count": 8,
+							"lsp_uri": "file:///D:/Leetcoding/Graph/graph.cpp",
+							"show_definitions": false,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 745.6,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 83.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.687182741117,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.Terminus":
+	{
+		"height": 297.0
+	},
+	"output.Terminus 2":
+	{
+		"height": 168.0
+	},
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
+	"output.autopep8":
+	{
+		"height": 0.0
+	},
+	"output.diagnostics":
+	{
+		"height": 150.399993896
+	},
+	"output.exec":
+	{
+		"height": 276.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.language servers":
+	{
+		"height": 400.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 150.399993896
+	},
+	"pinned_build_system": "Packages/User/c++17.sublime-build",
+	"project": "Leetcoding.sublime-project",
+	"replace":
+	{
+		"height": 60.8
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ou",
+				"outputf.in"
+			],
+			[
+				"in",
+				"inputf.in"
+			],
+			[
+				"er",
+				"dp\\error.txt"
+			],
+			[
+				"out",
+				"dp\\outputf.in"
+			],
+			[
+				"put",
+				"outputf.in"
+			],
+			[
+				"o",
+				"outputf.in"
+			],
+			[
+				"e",
+				"error.txt"
+			],
+			[
+				"m",
+				"myjava.java"
+			],
+			[
+				"N",
+				"NEW.java"
+			],
+			[
+				"tem",
+				"temp.cpp"
+			],
+			[
+				"tr",
+				"try.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 526.4,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\subcode\\dp\\CSES-Space.sublime-project"
+			]
+		],
+		"width": 432.8
+	},
+	"select_symbol":
+	{
+		"height": 303.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"countsubsetdp"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 275.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

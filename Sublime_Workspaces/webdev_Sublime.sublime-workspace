@@ -1,0 +1,913 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"emp",
+				"emplace_back"
+			],
+			[
+				"er",
+				"erase"
+			],
+			[
+				"em",
+				"empty"
+			],
+			[
+				"pop",
+				"pop_back"
+			],
+			[
+				"ba",
+				"back"
+			],
+			[
+				"ins",
+				"insert"
+			],
+			[
+				"prin",
+				"printf"
+			],
+			[
+				"swap",
+				"swap"
+			],
+			[
+				"be",
+				"beginend"
+			],
+			[
+				"pre",
+				"preffix"
+			],
+			[
+				"pr",
+				"preright"
+			],
+			[
+				"p",
+				"prefix"
+			],
+			[
+				"setp",
+				"setprecision"
+			],
+			[
+				"wr",
+				"wr_left"
+			],
+			[
+				"h",
+				"hr_down"
+			],
+			[
+				"w",
+				"wr_left"
+			],
+			[
+				"hr",
+				"hr_up"
+			],
+			[
+				"is",
+				"ispossible"
+			],
+			[
+				"max",
+				"maxindex"
+			],
+			[
+				"si",
+				"size"
+			],
+			[
+				"s",
+				"string"
+			],
+			[
+				"do",
+				"double"
+			],
+			[
+				"cn",
+				"cnt_even"
+			],
+			[
+				"de",
+				"define"
+			],
+			[
+				"su",
+				"sum1"
+			],
+			[
+				"sw",
+				"swap"
+			],
+			[
+				"rever",
+				"reverse"
+			],
+			[
+				"n",
+				"next"
+			],
+			[
+				"ios",
+				"iostream"
+			],
+			[
+				"mer",
+				"merge"
+			],
+			[
+				"at",
+				"aturn"
+			],
+			[
+				"swa",
+				"swap"
+			],
+			[
+				"end",
+				"end"
+			],
+			[
+				"en",
+				"endl"
+			],
+			[
+				"erro",
+				"I-system_error"
+			],
+			[
+				"nex",
+				"next_permutation"
+			],
+			[
+				"ne",
+				"next_permutation"
+			],
+			[
+				"pus",
+				"push_back"
+			],
+			[
+				"begi",
+				"begin"
+			],
+			[
+				"beg",
+				"begin"
+			],
+			[
+				"eb",
+				"deb"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/ROHAN/OneDrive/Desktop/htmls/projects/navbar/index.html",
+			"settings":
+			{
+				"buffer_size": 4763,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/ROHAN/OneDrive/Desktop/htmls/projects/navbar/style.css",
+			"settings":
+			{
+				"buffer_size": 3916,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "/C/Users/ROHAN/OneDrive/Desktop/htmls/projects/my-contacts/src/index.js",
+			"settings":
+			{
+				"buffer_size": 500,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"col",
+				"UI: Select Color Scheme"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"pre",
+				"Preferences: Settings"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"renm",
+				"Rename File"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"pref",
+				"Preferences: Settings"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"sett",
+				"Preferences: Settings"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"th",
+				"UI: Select Theme"
+			],
+			[
+				":",
+				":$ - EOF"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings"
+			],
+			[
+				"settin",
+				"Preferences: Settings"
+			],
+			[
+				"the",
+				"UI: Select Theme"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"ter",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"te",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"insl",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"a",
+				"Arithmetic"
+			],
+			[
+				"term",
+				"Terminus: Close"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"termin",
+				"Terminality: Browse Commands..."
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"termni",
+				"Preferences: Terminal Key Bindings – Default"
+			],
+			[
+				"termn",
+				"TerminalProjectFolder: open terminal"
+			],
+			[
+				"t",
+				"Terminal: Open"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"termi",
+				"Terminus: Close"
+			],
+			[
+				"open ",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"erro",
+				"Snippet: error"
+			],
+			[
+				"rena",
+				"Rename File"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"canel",
+				"Build: Cancel"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"form",
+				"Clang Format: Format Selection"
+			],
+			[
+				"for",
+				"Clang Format: Set Path"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"forme",
+				"Clang Format: Format Selection"
+			],
+			[
+				"forma",
+				"Clang Format: Format Selection"
+			],
+			[
+				"cla",
+				"Clang Format: Select Style"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ad",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"ma",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"vie",
+				"View: Toggle Menu"
+			],
+			[
+				"adva",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"mat",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"red the",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				":tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"",
+				"Build: New Build System"
+			],
+			[
+				"me",
+				"View: Toggle Menu"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"min",
+				"View: Toggle Minimap"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 160.800003052,
+		"history":
+		[
+			"12 /14",
+			"120026 - 54294",
+			"12 * 10002",
+			"5%3",
+			"4%3",
+			"8%3",
+			"8/3",
+			"0/3",
+			"0 % 3",
+			"18%2",
+			"18%4",
+			"7%4",
+			"7%3",
+			"11%4",
+			"11%2",
+			"9 % 2",
+			"7%2",
+			"3",
+			"7%4",
+			"6%4",
+			"6 % 2",
+			"17%2",
+			"17 % 4",
+			"5%4",
+			"5%2",
+			"3%2",
+			"3 % 4",
+			"17 % 4",
+			"17 % 2 ",
+			"3.5 /1.2",
+			"2%7",
+			"2% 16",
+			"2 % 6",
+			"gcd(18 , 20)",
+			"5**3*4 + 5**2*3 + 5 * 2 + 1",
+			"5**5",
+			"16 * 3 + 4 * 2 + 1",
+			"256 - 16* 3 + 4*2 + 1",
+			"4**4",
+			"32.052255376143336 - 33.358135223",
+			"7 % 8",
+			"9 % 4",
+			"222 % 2",
+			"clear",
+			"stop",
+			"exit",
+			"EXIT",
+			"6 % 4",
+			"2 % 4 ",
+			"2 & 4",
+			"8 % 6 ",
+			"4 % 8 ",
+			"2 ** 30",
+			"7 % 1",
+			"13 / 3",
+			" (6 - (6 + 1))*1/6",
+			"(6 - 6 + 1)*1/6",
+			"2 * 1 / 6",
+			"1 / 6",
+			"13 /3",
+			"334 + 2 * 333",
+			"999/3 + 334*2",
+			"5 / 3",
+			"32 -16",
+			"7/2",
+			"0 % 2",
+			"34/10",
+			"19 / 10",
+			"5%3",
+			"5/3",
+			"7 / 3",
+			"7/4",
+			"6/4",
+			"5/4",
+			"5 - 5/4",
+			"4 - 4/4 ",
+			"4- 4/4",
+			"5 - 5/4",
+			"5 - 5/ 4",
+			"6-6/4",
+			"5 - 5/4",
+			"5 - 5/ 4",
+			"4 - 4/ 4",
+			"16 - 4",
+			"16 / 4",
+			"15 - 4",
+			"15/4",
+			"15/2",
+			"9/4",
+			"10/4",
+			"10- 10/4",
+			"9 - 9/4",
+			"9/4",
+			"345%11",
+			"345 % 111",
+			"21/2",
+			"6%3",
+			"1%3",
+			"1/3",
+			"1%3",
+			"clear",
+			"5 / 2",
+			"5%3",
+			"8%3",
+			"9%6",
+			"3%6",
+			"gcd(27,37)",
+			"3/2",
+			"3/3",
+			"3%2",
+			"1%5",
+			"1%2",
+			"30 % 4 ",
+			"30 / 6 ",
+			"30 % 6 ",
+			"6 % 4",
+			"19260816 % 264",
+			"10 % 9",
+			"10 % 6 ",
+			"10 % 3",
+			"24 % 3",
+			"5 % 27",
+			"24 + 3",
+			"5 % 3",
+			"5 % 24",
+			"0%2",
+			"1%2",
+			"4 / 3"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/ROHAN/OneDrive/Desktop/htmls/projects",
+		"/C/Users/ROHAN/OneDrive/Desktop/htmls/projects/my-contacts",
+		"/C/Users/ROHAN/OneDrive/Desktop/htmls/projects/my-contacts/src",
+		"/C/Users/ROHAN/OneDrive/Desktop/htmls/projects/navbar"
+	],
+	"file_history":
+	[
+		"/D/subcode/Sublime_Workspaces/index.html",
+		"/C/Users/ROHAN/OneDrive/Desktop/htmls/projects/navbar/index.html",
+		"/D/subcode/dp/outputf.in",
+		"/D/subcode/dp/error.txt",
+		"/D/subcode/dp/QuickSort.cpp",
+		"/D/subcode/dp/linkedlist.cpp",
+		"/D/subcode/dp/temp.cpp",
+		"/D/subcode/dp/myjava.java",
+		"/D/subcode/dp/NEW.java",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/javasnippet.sublime-snippet",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/testcase.sublime-snippet",
+		"/D/subcode/dp/subset_sum.cpp",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/Terminus/Terminus.sublime-settings",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/Terminal/Terminal.sublime-settings",
+		"/D/subcode/dp/countsubsetsum.cpp",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/Terminal/Default (Windows).sublime-keymap",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/Default (Windows).sublime-keymap",
+		"/D/subcode/dp/inputf.in",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/Terminus.sublime-settings",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/jjava.sublime-build",
+		"/D/subcode/dp/myfirst.java",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/RunJava.sublime-build",
+		"/D/subcode/dp/kjlights.cpp",
+		"/D/subcode/dp/try.cpp",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/error.sublime-snippet",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/SublimeAStyleFormatter/SublimeAStyleFormatter.sublime-settings",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/debug.sublime-snippet",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/clang_format.sublime-settings",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/Material Theme/Preferences.sublime-settings",
+		"/D/subcode/inputf.in",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/User/OneDark.sublime-color-scheme",
+		"/D/subcode/a.exe",
+		"/C/Users/ROHAN/AppData/Roaming/Sublime Text/Packages/One Dark Material - Theme/schemes/OneDark.tmTheme",
+		"/D/subcode/dp/targetsum.cpp",
+		"/C/Users/ROHAN/OneDrive/Documents/pythoncode/hello.py",
+		"/D/subcode/dp/01knapsack.cpp",
+		"/D/subcode/try.cpp",
+		"/D/subcode/outputf.in"
+	],
+	"find":
+	{
+		"height": 34.4
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/ROHAN/OneDrive/Desktop/htmls/projects/navbar/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4763,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/ROHAN/OneDrive/Desktop/htmls/projects/navbar/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3916,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								206,
+								206
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/ROHAN/OneDrive/Desktop/htmls/projects/my-contacts/src/index.js",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 500,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								107,
+								107
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.4
+	},
+	"input":
+	{
+		"height": 83.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.Terminus":
+	{
+		"height": 220.0
+	},
+	"output.Terminus 2":
+	{
+		"height": 168.0
+	},
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 42.4
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/c++17.sublime-build",
+	"project": "webdev_Sublime.sublime-project",
+	"replace":
+	{
+		"height": 65.6
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"e",
+				"error.txt"
+			],
+			[
+				"ou",
+				"outputf.in"
+			],
+			[
+				"m",
+				"myjava.java"
+			],
+			[
+				"N",
+				"NEW.java"
+			],
+			[
+				"tem",
+				"temp.cpp"
+			],
+			[
+				"tr",
+				"try.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 503.2,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\subcode\\Sublime_Workspaces\\javasetup.sublime-workspace"
+			]
+		],
+		"width": 386.4
+	},
+	"select_symbol":
+	{
+		"height": 303.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"countsubsetdp"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 199.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
